@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+/******************************
+ Override 640 px content width.
+ ******************************/
+
+.inner {
+    max-width: 800px;
+    }
