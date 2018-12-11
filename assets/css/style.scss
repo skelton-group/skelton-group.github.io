@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+/*********************************************
+ Fix dodgy (?) subscript/superscript handling.
+ *********************************************/
+
+sub {
+    vertical-align: sub
+	}
+
+sup {
+    vertical-align: super
+	}
 
 /******************************
  Override 640 px content width.
