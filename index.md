@@ -16,8 +16,6 @@ Even at 0 K, zero-point vibrational motion adds to the thermodynamic free energy
 At non-zero temperatures, thermal expansion of the crystal lattice leads to progressive changes in structural, mechanical, electrical and optical properties, and is a particularly important consideration when materials are used in high-temperature applications.
 In some material systems, complex "anharmonic" structural dynamics lead to very different properties to the average crystallographic structure and novel effects such as heavily-suppressed thermal conductivity.
 
-<br>
-
 <figure>
     <img src="assets/images/o-MAPbI3-Mode-036.gif" alt="o-MAPbI3-Mode-036.gif">
     <img src="assets/images/o-MAPbI3-Mode-040.gif" alt="o-MAPbI3-Mode-040.gif">
@@ -25,10 +23,10 @@ In some material systems, complex "anharmonic" structural dynamics lead to very 
 
 <!-- Ought to use a figcaption element for this, but this causes the subscript/superscript text to render incorrectly. -->
 
-Animations of two lattice vibrations (phonon modes) in the hybrid halide perovskite methylammonium lead iodide (CH<sub>3</sub>NH<sub>3</sub>)PbI<sub>3</sub> (MAPbI<sub>3</sub>).
-Coupling between the motion of the PbI<sub>3</sub><sup>-</sup> cage and the MA<sup>+</sup> cation suppresses the thermal conductivity and is likely to be an important contributor to its excellent performance as a photovoltaic (PV) absorber.
-
-<br>
+<p>
+  Animations of two lattice vibrations (phonon modes) in the hybrid halide perovskite methylammonium lead iodide (CH<sub>3</sub>NH<sub>3</sub>)PbI<sub>3</sub> (MAPbI<sub>3</sub>).
+  Coupling between the motion of the PbI<sub>3</sub><sup>-</sup> cage and the MA<sup>+</sup> cation suppresses the thermal conductivity and is likely to be an important contributor to its excellent performance as a photovoltaic (PV) absorber.
+</p>
 
 The theory of lattice dynamics provides an efficient and straightforward framework for including dynamics in theoretical models.
 However, the computing power needed to perform lattice-dynamics calculations routinely and on complex systems is a recent development, so they are presently very under-exploited.
