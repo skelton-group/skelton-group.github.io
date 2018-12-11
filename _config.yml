@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
+
 title: "The Skelton Research Group"
-description: "Materials modelling and structural dynamics"
+description: "First-principles materials modelling and structural dynamics"
+
+github:
+    is_project_page: False
