@@ -16,6 +16,8 @@ Even at 0 K, zero-point vibrational motion adds to the thermodynamic free energy
 At non-zero temperatures, thermal expansion of the crystal lattice leads to progressive changes in structural, mechanical, electrical and optical properties, and is a particularly important consideration when materials are used in high-temperature applications.
 In some material systems, complex "anharmonic" structural dynamics lead to very different properties to the average crystallographic structure and novel effects such as heavily-suppressed thermal conductivity.
 
+<br>
+
 <figure>
     <img src="assets/images/o-MAPbI3-Mode-036.gif" alt="o-MAPbI3-Mode-036.gif">
     <img src="assets/images/o-MAPbI3-Mode-040.gif" alt="o-MAPbI3-Mode-040.gif">
@@ -29,6 +31,8 @@ In some material systems, complex "anharmonic" structural dynamics lead to very 
 The theory of lattice dynamics provides an efficient and straightforward framework for including dynamics in theoretical models.
 However, the computing power needed to perform lattice-dynamics calculations routinely and on complex systems is a recent development, so they are presently very under-exploited.
 
+<br>
+
 Our research focusses on three key applications of lattice dynamics in materials modelling:
 
 * Using the quasi-harmonic approximation (QHA) to model the temperature dependence of material properties
@@ -37,4 +41,4 @@ Our research focusses on three key applications of lattice dynamics in materials
 
 We apply theoretical modelling techniques to a wide range of systems and problems, and we regularly work with experimental groups to validate our results and to help get the most insight from measurements.
 
-If you would like to find out more about our research, or if you are interested in working with us, please [contact us]().
+If you would like to find out more about our research, or if you are interested in working with us, please [contact us](Contact.md).
