@@ -4,11 +4,13 @@
 
 @import url("/assets/css/normalize.css");
 
+
 /*****************
  Code highlighting
  *****************/
 
 @import "rouge-github";
+
 
 /******
  Styles
@@ -269,8 +271,6 @@ form {
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
 }
 
 #main_content {
@@ -279,6 +279,46 @@ form {
 
 #footer_wrap {
   background: #212121;
+}
+
+
+/******
+ Navbar
+ ******/
+
+#navbar_wrap {
+  background: #212121;
+}
+
+#navbar {
+  padding: 0px 10px;
+}
+
+#navbar > ul {
+  align-content: stretch;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar > ul > li {
+  flex: 1;
+  text-align: center;
+}
+
+#navbar > ul > li:hover {
+  background-color: #4d4dff;
+}
+
+#navbar > ul > li > a {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#navbar > ul > li > a:hover {
+  text-decoration: none;
 }
 
 
@@ -303,7 +343,7 @@ form {
   }
 
   #project_title {
-	font-size: 32px;
+	  font-size: 32px;
   }
 
   h1 {
@@ -346,7 +386,7 @@ form {
   }
 
   #project_title {
-	font-size: 28px;
+	  font-size: 28px;
   }
 
   h1 {

@@ -1,5 +1,7 @@
 ## Contact us
 
-If you would like to find out more about our research, or if you are interested in working with us, please get in touch by e-mail: [jonathan.skelton[at]manchester.ac.uk](mailto:jonathan.skelton[at]manchester.ac.uk).
+If you would like to find out more about our research, need help using one of our codes, or if you are interested in working with us, you can contact us by e-mail at: [jonathan.skelton[at]manchester.ac.uk](mailto:jonathan.skelton[at]manchester.ac.uk).
 
-We are based at the School of Chemistry at the University of Manchester (building 61 on the [campus map](https://www.manchester.ac.uk/discover/maps/)).
+We are currently based in the Dover Street Building at the University of Manchester (building 70 on the [campus map](https://www.manchester.ac.uk/discover/maps/)).
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJhwsedI6xe0gRaJoBBVeIJgQ&key=AIzaSyCfzuZJq2SnJ_cSZ57oddCx333HkNhtyyA"></iframe>
