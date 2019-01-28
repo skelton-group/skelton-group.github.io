@@ -300,6 +300,7 @@ form {
 #navbar > ul {
   align-content: stretch;
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -322,6 +323,26 @@ form {
 
 #navbar > ul > li > a:hover {
   text-decoration: none;
+}
+
+/****
+ Misc
+ ****/
+
+.google_maps_container {
+  max-width: 600px;
+  overflow: hidden;
+  padding-top: 50%;
+  position: relative;
+}
+
+.google_maps_iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 
 
@@ -376,6 +397,10 @@ form {
   code, pre {
     font-size: 11px;
   }
+
+  #navbar > ul > li {
+    flex-basis: 50%;
+  }
 }
 
 @media screen and (max-width: 320px) {
@@ -420,5 +445,9 @@ form {
     min-width: 240px;
     max-width: 320px;
     font-size: 11px;
+  }
+
+  #navbar > ul > li {
+    flex-basis: 100%;
   }
 }
