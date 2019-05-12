@@ -3,6 +3,7 @@ title: Home
 ---
 
 ## Welcome to the Skelton research group website
+------------------------------------------------
 
 We are a theory group based in the School of Chemistry at the University of Manchester, UK.
 
@@ -44,4 +45,4 @@ Our research focusses on three key applications of lattice dynamics in materials
 
 We apply theoretical modelling techniques to a wide range of systems and problems, and we regularly work with experimental groups to validate our results and to help get the most insight from measurements.
 
-If you would like to find out more about our research, or if you are interested in working with us, please [contact us](Contact.md).
+If you would like to find out more about our research, or if you are interested in working with us, please [contact us](contact.html).

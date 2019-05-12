@@ -3,6 +3,7 @@ title: Contact
 ---
 
 ## Contact us
+-------------
 
 If you would like to find out more about our research, need help using one of our codes, or if you are interested in working with us, you can contact us by e-mail at: [jonathan.skelton[at]manchester.ac.uk](mailto:jonathan.skelton[at]manchester.ac.uk).
 
