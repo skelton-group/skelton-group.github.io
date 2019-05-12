@@ -8,6 +8,8 @@ plugins:
 remote_theme: skelton-group/jekyll-theme-slate-mod
 
 navbar:
+  - link: index.html
+    text: "Home"
   - link: research.html
     text: "Research"
   - link: publications.html
