@@ -1,4 +1,6 @@
 ---
+title: Publications
+
 publication_types:
   - 'preprint'
   - 'journal-article'
@@ -26,7 +28,7 @@ publication_types:
 
 {% comment %} Group publications by year. {% endcomment %}
 
-{% assign record_groups = site.data.Publications | group_by: "year"  %}
+{% assign record_groups = site.data.publications | group_by: "year"  %}
 
 {% for record_group in record_groups %}
     {% comment %} Title string. {% endcomment %}
@@ -148,7 +150,7 @@ publication_types:
                     {%- endcapture %}
                 {% endif %}
 
-                {% comment %} For book chapters, add the print/online ISBN(s) if available. {% endcomment %}
+                {% comment %} For book chapters, add ISBN(s) if available. {% endcomment %}
 
                 {% if publication_type == 'book-chapter' %}
                     {% if record.isbn %}
@@ -205,6 +207,7 @@ publication_types:
 {% endfor %}
 
 ## Publications
+---------------
 
 <br>
 

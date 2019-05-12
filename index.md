@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## Welcome to the Skelton research group website
 
 We are a theory group based in the School of Chemistry at the University of Manchester, UK.
