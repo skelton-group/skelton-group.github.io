@@ -28,7 +28,7 @@ publication_types:
 
 {% comment %} Group publications by year. {% endcomment %}
 
-{% assign record_groups = site.data.publications | group_by: "year"  %}
+{% assign record_groups = site.data.publications | sort : "year" | reverse | group_by: "year"  %}
 
 {% for record_group in record_groups %}
     {% comment %} Title string. {% endcomment %}

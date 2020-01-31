@@ -12,9 +12,11 @@ navbar:
     text: "Home"
   - link: research.html
     text: "Research"
+  - link: people.html
+    text: "People"
   - link: publications.html
     text: "Publications"
-  - link: codes.html
-    text: "Codes"
+  - link: opportunities.html
+    text: "Opportunities"
   - link: contact.html
     text: "Contact"

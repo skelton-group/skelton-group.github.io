@@ -1,15 +1,244 @@
 - type: preprint
   authors:
-    E. Lora da Silva
-    M. C. Santos
-    J. M. Skelton
-    T. Yang
-    T. Santos
-    S. C. Parker
-    A. Walsh
-  title: "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias"
+    - J. M. Skelton
+  title: "Lattice dynamics of <i>Pnma</i> Sn(S<sub>1-<i>x</i></sub>Se<sub><i>x</i></sub>) solid solutions: energetics, phonon spectra and thermal transport"
+  year: 2020
+  arxiv: 2001.11311
+
+- type: preprint
+  authors:
+    - E. Lora da Silva
+    - J. M. Skelton
+    - P. Rodr&iacute;guez-Hern&aacute;ndez
+    - A. Mu&ntilde;oz
+    - D. Mart&iacute;nez-Garcia
+    - F. J. Manj&oacute;n
+  title: Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression
   year: 2019
+  arxiv: 1904.09181
+
+- type: preprint
+  authors:
+    - E. Lora da Silva
+    - M. C. Santos
+    - J. M. Skelton
+    - T. Yang
+    - T. Santos
+    - S. C. Parker
+    - A. Walsh
+  title: "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias"
+  year: 2018
   arxiv: 1809.06555
+
+- type: journal-article
+  authors:
+    - R. X. Yang
+    - J. Skelton
+    - E. L. Da Silva
+    - J. M. Frost
+    - A. Walsh
+  title: Assessment of dynamic structural instabilities across 24 cubic inorganic halide perovskites
+  journal: The Journal of Chemical Physics
+  volume: 152
+  article_number: 024703 
+  year: 2020
+  doi: 10.1063/1.5131575
+  url: https://chemrxiv.org/articles/Assessment_of_Dynamic_Structural_Instabilities_Across_24_Cubic_Inorganic_Halide_Perovskites/9976868  
+
+- type: journal-article
+  authors:
+    - F. Belviso
+    - V. E. P. Claerbout
+    - A. Comas-Vives
+    - N. S. Dalal
+    - F.-R. Fan
+    - A. Filippetti
+    - V. Fiorentini
+    - L. Foppa
+    - C. Franchini
+    - B. Geisler
+    - L. M. Ghiringhelli
+    - A. Gro&szlig;
+    - S. Hu
+    - J. &Iacute;&ntilde;iguez
+    - S. K. Kauwe
+    - J. L. Musfeldt
+    - P. Nicolini
+    - R. Pentcheva
+    - T. Polcar
+    - W. Ren
+    - F. Ricci
+    - F. Ricci
+    - H. S. Sen
+    - J. M. Skelton
+    - T. D. Sparks
+    - A. Stroppa
+    - A. Urru
+    - M. Vandichel
+    - P. Vavassori
+    - H. Wu
+    - K. Yang
+    - H. J. Zhao
+    - D. Puggioni
+    - R. Cortese
+    - A. Cammarata
+  title: "Viewpoint: Atomic-Scale Design Protocols toward Energy, Electronic, Catalysis, and Sensing Applications"
+  journal: Inorganic Chemistry
+  volume: 58
+  issue: 22
+  pages: 14939-14980
+  year: 2019
+  doi: 10.1021/acs.inorgchem.9b01785
+
+- type: journal-article
+  authors:
+    - N. Bannister
+    - J. Skelton
+    - G. Kociok-K&ouml;hn
+    - T. Batten
+    - E. Da Como
+    - S. Crampin
+  title: Lattice vibrations of &gamma;- and &beta;-coronene from Raman microscopy and theory
+  journal: Physical Review Materials
+  volume: 3
+  issue: 12
+  article_number: 125601
+  year: 2019
+  doi: 10.1103/PhysRevMaterials.3.125601
+  arxiv: 1910.04101
+
+- type: journal-article
+  authors:
+    - A. J. Clough
+    - N. M. Orchanian
+    - J. M. Skelton
+    - A. J. Neer
+    - S. A. Howard
+    - C. A. Downes
+    - L. F. J. Piper
+    - A. Walsh
+    - B. C. Melot
+    - S. C. Marinescu
+  title: Room Temperature Metallic Conductivity in a Metal-Organic Framework Induced by Oxidation
+  journal: Journal of the American Chemical Society
+  volume: 141
+  issue: 41
+  pages: 16323-16330
+  year: 2019
+  doi: 10.1021/jacs.9b06898
+
+- type: journal-article
+  authors:
+    - K. T Butler
+    - P. Vervoorts
+    - M. G. Ehrenreich
+    - J. Armstrong
+    - J. M. Skelton
+    - G. Kieslich
+  title: "Experimental Evidence for Vibrational Entropy as Driving Parameter of Flexibility in the Metal-Organic Framework ZIF-4 (Zn)"
+  journal: Chemistry of Materials
+  volume: 31
+  issue: 20
+  pages: 8366-8372
+  year: 2019
+  doi: 10.1021/acs.chemmater.9b01908
+
+- type: journal-article
+  authors:
+    - H. Yang
+    - J.-Y. Yang
+    - C. N. Savory
+    - J. M. Skelton
+    - B. J. Morgan
+    - D. O. Scanlon
+    - A. Walsh
+  title: "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>"
+  journal: The Journal of Physical Chemistry Letters
+  volume: 10
+  issue: 18
+  pages: 5552-5556
+  year: 2019
+  doi: 0.1021/acs.jpclett.9b02073
+
+- type: journal-article
+  authors:
+    - D. Davies
+    - K. Butler
+    - A. J Jackson
+    - J. Skelton
+    - K. Morita
+    - A. Walsh
+  title: "SMACT: Semiconducting Materials by Analogy and Chemical Theory"
+  journal: The Journal of Open Source Software
+  volume: 4
+  issue: 38
+  pages: 1361
+  year: 2019
+  doi: 10.21105/joss.01361
+
+- type: journal-article
+  authors:
+    - D. S. D. Gunn
+    - J. M. Skelton
+    - L. A. Burton
+    - S. Metz
+    - S. C. Parker
+  title: "Thermodynamics, Electronic Structure, and Vibrational Properties of Sn<sub><i>n</i></sub>(S<sub>1–<i>x</i></sub>Se<sub><i>x</i></sub>)<sub><i>m</i></sub> Solid Solutions for Energy Applications"
+  journal: Chemistry of Materials
+  volume: 31
+  issue: 10
+  pages: 3672-3685
+  year: 2019
+  doi: 10.1021/acs.chemmater.9b00362
+
+- type: journal-article
+  authors:
+    - A. Nearchou
+    - M.-L. U. Cornelius
+    - J. M. Skelton
+    - Z. L. Jones
+    - A. B. Cairns
+    - I. E. Collings
+    - P. R. Raithby
+    - S. A. Wells
+    - A. Sartbaeva
+  title: "Intrinsic Flexibility of the EMT Zeolite Framework under Pressure"
+  journal: Molecules
+  volume: 24
+  issue: 3
+  pages: 641
+  year: 2019
+  doi: 10.3390/molecules24030641
+
+- type: journal-article
+  authors:
+    - C. L. Jones
+    - J. M. Skelton
+    - S. C. Parker
+    - P. R. Raithby
+    - A. Walsh
+    - C. C. Wilson
+    - L. H. Thomas
+  title: "Living in the salt-cocrystal continuum: indecisive organic complexes with thermochromic behaviour"
+  journal: CrystEngComm
+  volume: 21
+  pages: 1626-1634
+  year: 2019
+  doi: 10.1039/C8CE02066C
+
+- type: journal-article
+  authors:
+    - L. E. Hatcher
+    - J. M. Skelton
+    - M. R. Warren
+    - P. R. Raithby
+  title: "Photocrystallographic Studies on Transition Metal Nitrito Metastable Linkage Isomers: Manipulating the Metastable State"
+  journal: "Accounts of Chemical Research"
+  volume: 52
+  issue: 4
+  pages: 1079-1088
+  year: 2019
+  doi: 10.1021/acs.accounts.9b00018
 
 - type: journal-article
   authors:
@@ -19,6 +248,9 @@
     - P. McArdle
   title: "Shining light on growth-dependent surface chemistry of organic crystals: a polarised Raman spectroscopic and computational study of aspirin"
   journal: "Crystal Growth & Design"
+  volume: 19
+  issue: 2
+  pages: 1288-1298
   year: 2019
   doi: 10.1021/acs.cgd.8b01693
 

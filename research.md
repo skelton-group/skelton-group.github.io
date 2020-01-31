@@ -5,4 +5,6 @@ title: Research
 ## Our research
 ---------------
 
-This content is currently being finalised -- please check back soon!
+<br>
+
+This content is currently being finalised -- please check back soon.
