@@ -1,34 +1,64 @@
 - type: preprint
   authors:
-    - J. M. Skelton
-  title: "Lattice dynamics of <i>Pnma</i> Sn(S<sub>1-<i>x</i></sub>Se<sub><i>x</i></sub>) solid solutions: energetics, phonon spectra and thermal transport"
-  year: 2020
-  arxiv: 2001.11311
-
-- type: preprint
-  authors:
     - E. Lora da Silva
     - J. M. Skelton
     - P. Rodr&iacute;guez-Hern&aacute;ndez
     - A. Mu&ntilde;oz
     - D. Mart&iacute;nez-Garcia
     - F. J. Manj&oacute;n
-  title: Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression
+  title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
   year: 2019
   arxiv: 1904.09181
 
-- type: preprint
+- type: journal-article
   authors:
-    - E. Lora da Silva
-    - M. C. Santos
     - J. M. Skelton
-    - T. Yang
-    - T. Santos
+    - D. S. D. Gunn
+    - S. Metz
     - S. C. Parker
-    - A. Walsh
-  title: "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias"
-  year: 2018
-  arxiv: 1809.06555
+  title: "Accuracy of hybrid functionals with non-self-consistent Kohn-Sham orbitals for predicting the properties of semiconductors"
+  journal: Journal of Chemical Theory and Computation
+  year: 2020
+  doi: 10.1021/acs.jctc.9b01218
+
+- type: journal-article
+  authors:
+    - A. Chiesa
+    - F. Cugini
+    - R. Hussain
+    - E. Macaluso
+    - G. Allodi
+    - E. Garlatti
+    - M. Giansiracusa
+    - C. A. P. Goodwin
+    - F. Ortu
+    - D. Reta
+    - J. M. Skelton
+    - T. Guidi
+    - P. Santini
+    - M. Solzi
+    - R. De Renzi
+    - D. P. Mills
+    - N. F. Chilton
+    - S. Carretta
+  title: "Understanding magnetic relaxation in single-ion magnets with high blocking temperature"
+  journal: Physical Review B
+  volume: 101
+  pages: 174402
+  year: 2020
+  doi: 10.1103/PhysRevB.101.174402
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+  title: "Lattice dynamics of <i>Pnma</i> Sn(S<sub>1-<i>x</i></sub>Se<sub><i>x</i></sub>) solid solutions: energetics, phonon spectra and thermal transport"
+  journal: "Journal of Physics: Energy"
+  volume: 2
+  issue: 2
+  pages: 025006
+  year: 2020
+  doi: 10.1088/2515-7655/ab7839
+  arxiv: 2001.11311
 
 - type: journal-article
   authors:
@@ -40,10 +70,27 @@
   title: Assessment of dynamic structural instabilities across 24 cubic inorganic halide perovskites
   journal: The Journal of Chemical Physics
   volume: 152
-  article_number: 024703 
+  article_number: 024703
   year: 2020
   doi: 10.1063/1.5131575
-  url: https://chemrxiv.org/articles/Assessment_of_Dynamic_Structural_Instabilities_Across_24_Cubic_Inorganic_Halide_Perovskites/9976868  
+  url: https://chemrxiv.org/articles/Assessment_of_Dynamic_Structural_Instabilities_Across_24_Cubic_Inorganic_Halide_Perovskites/9976868
+
+- type: conference-proceedings
+  authors:
+    - E. Lora da Silva
+    - M. C. Santos
+    - J. M. Skelton
+    - T. Yang
+    - T. Santos
+    - S. C. Parker
+    - A. Walsh
+  title: "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias"
+  journal: "Materials Today: Proceedings"
+  volume: 20
+  pages: 373-382
+  year: 2020
+  doi: 10.1016/j.matpr.2019.10.076
+  arxiv: 1809.06555
 
 - type: journal-article
   authors:
