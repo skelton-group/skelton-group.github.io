@@ -10,6 +10,31 @@
   year: 2019
   arxiv: 1904.09181
 
+- type: preprint
+  authors:
+    - W. Rahim
+    - J. Skelton
+    - C. Savory
+    - I. R. Evans
+    - J. S. O. Evans
+    - A. Walsh
+    - D. Scanlon
+  title: "Polymorph Exploration of Bismuth Stannate Using First-principles Phonon Mode Mapping"
+  year: 2020
+  chemrxiv: Polymorph_Exploration_of_Bismuth_Stannate_Using_First-principles_Phonon_Mode_Mapping/12318752
+
+- type: preprint
+  authors:
+    - H. Yang
+    - C. Savory
+    - B. Morgan
+    - D. Scanlon
+    - J. Skelton
+    - A. Walsh
+  title: "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes"
+  year: 2020
+  chemrxiv: Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033
+
 - type: journal-article
   authors:
     - J. M. Skelton
@@ -73,7 +98,7 @@
   article_number: 024703
   year: 2020
   doi: 10.1063/1.5131575
-  url: https://chemrxiv.org/articles/Assessment_of_Dynamic_Structural_Instabilities_Across_24_Cubic_Inorganic_Halide_Perovskites/9976868
+  chemrxiv: Assessment_of_Dynamic_Structural_Instabilities_Across_24_Cubic_Inorganic_Halide_Perovskites/9976868
 
 - type: conference-proceedings
   authors:
@@ -206,6 +231,7 @@
   pages: 5552-5556
   year: 2019
   doi: 0.1021/acs.jpclett.9b02073
+  chemrxiv: Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404
 
 - type: journal-article
   authors:
@@ -256,6 +282,7 @@
   pages: 641
   year: 2019
   doi: 10.3390/molecules24030641
+  chemrxiv: Intrinsic_Flexibility_of_the_EMT_Zeolite_Framework_Under_Pressure/7588733
 
 - type: journal-article
   authors:
