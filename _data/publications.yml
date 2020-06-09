@@ -1,14 +1,11 @@
 - type: preprint
   authors:
-    - E. Lora da Silva
-    - J. M. Skelton
-    - P. Rodr&iacute;guez-Hern&aacute;ndez
-    - A. Mu&ntilde;oz
-    - D. Mart&iacute;nez-Garcia
-    - F. J. Manj&oacute;n
-  title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
-  year: 2019
-  arxiv: 1904.09181
+    - W. Rahim
+    - J. Skelton
+    - D. Scanlon
+  title: "&alhpa;-Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>: A Potential Room Temperature <i>n</i>-type Oxide Thermoelectric"
+  year: 2020
+  chemrxiv: _-Bi2Sn2O7_A_Potential_Room_Temperature_n-type_Oxide_Thermoelectric/12420242
 
 - type: preprint
   authors:
@@ -34,6 +31,43 @@
   title: "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes"
   year: 2020
   chemrxiv: Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033
+
+- type: preprint
+  authors:
+    - E. Lora da Silva
+    - J. M. Skelton
+    - P. Rodr&iacute;guez-Hern&aacute;ndez
+    - A. Mu&ntilde;oz
+    - D. Mart&iacute;nez-Garcia
+    - F. J. Manj&oacute;n
+  title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
+  year: 2019
+  arxiv: 1904.09181
+
+- type: journal-article
+  authors:
+    - L. A. H. Jones
+    - W. M. Linhart
+    - N. Fleck
+    - J. E. N. Swallow
+    - P. A. E. Murgatroyd
+    - H. Shiel
+    - T. J. Featherstone
+    - M. Smiles
+    - P. K. Thakur
+    - T.-L. Lee
+    - L. J. Hardwick
+    - J. Alaria
+    - F. J&auml;ckel
+    - R. Kudrawiec
+    - L. A. Burton
+    - A. Walsh
+    - J. M. Skelton
+    - T. D. Veal
+    - V. R. Dhanak
+  title: "Sn 5<i>s</i><sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation"
+  journal: Physical Review Materials
+  year: 2020
 
 - type: journal-article
   authors:
