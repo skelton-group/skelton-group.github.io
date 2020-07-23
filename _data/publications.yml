@@ -9,19 +9,6 @@
 
 - type: preprint
   authors:
-    - W. Rahim
-    - J. Skelton
-    - C. Savory
-    - I. R. Evans
-    - J. S. O. Evans
-    - A. Walsh
-    - D. Scanlon
-  title: "Polymorph Exploration of Bismuth Stannate Using First-principles Phonon Mode Mapping"
-  year: 2020
-  chemrxiv: Polymorph_Exploration_of_Bismuth_Stannate_Using_First-principles_Phonon_Mode_Mapping/12318752
-
-- type: preprint
-  authors:
     - H. Yang
     - C. Savory
     - B. Morgan
@@ -43,6 +30,21 @@
   title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
   year: 2019
   arxiv: 1904.09181
+
+- type: journal-article
+  authors:
+    - W. Rahim
+    - J. M. Skelton
+    - C. N. Savory
+    - I. R. Evans
+    - J. S. O. Evans
+    - A. Walsh
+    - D. O. Scanlon
+  title: "Polymorph exploration of bismuth stannate using first-principles phonon mode mapping"
+  journal: Chemical Science
+  year: 2020
+  doi: 10.1039/D0SC02995E
+  chemrxiv: Polymorph_Exploration_of_Bismuth_Stannate_Using_First-principles_Phonon_Mode_Mapping/12318752
 
 - type: journal-article
   authors:
