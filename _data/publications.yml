@@ -1,26 +1,5 @@
 - type: preprint
   authors:
-    - W. Rahim
-    - J. Skelton
-    - D. Scanlon
-  title: "&alpha;-Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>: A Potential Room Temperature <i>n</i>-type Oxide Thermoelectric"
-  year: 2020
-  chemrxiv: _-Bi2Sn2O7_A_Potential_Room_Temperature_n-type_Oxide_Thermoelectric/12420242
-
-- type: preprint
-  authors:
-    - H. Yang
-    - C. Savory
-    - B. Morgan
-    - D. Scanlon
-    - J. Skelton
-    - A. Walsh
-  title: "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni,Mn,Co)O<sub>2</sub> (NMC) Battery Cathodes"
-  year: 2020
-  chemrxiv: Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033
-
-- type: preprint
-  authors:
     - E. Lora da Silva
     - J. M. Skelton
     - P. Rodr&iacute;guez-Hern&aacute;ndez
@@ -30,6 +9,34 @@
   title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
   year: 2019
   arxiv: 1904.09181
+
+- type: preprint
+  authors:
+    - W. Rahim
+    - J. Skelton
+    - D. Scanlon
+  title: "&alpha;-Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>: a potential room temperature n-type oxide thermoelectric"
+  journal: Journal of Materials Chemistry A
+  volume: 8
+  pages: 16405-16420
+  year: 2020
+  chemrxiv: _-Bi2Sn2O7_A_Potential_Room_Temperature_n-type_Oxide_Thermoelectric/12420242
+
+- type: journal-article
+  authors:
+    - H. Yang
+    - C. Savory
+    - B. Morgan
+    - D. Scanlon
+    - J. Skelton
+    - A. Walsh
+  title: "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni, Mn, Co)O<sub>2</sub> (NMC) Battery Cathodes"
+  journal: Chemistry of Materials
+  volume: 32
+  issue: 17
+  pages: 7542–7550
+  year: 2020
+  chemrxiv: Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033
 
 - type: journal-article
   authors:
@@ -42,6 +49,8 @@
     - D. O. Scanlon
   title: "Polymorph exploration of bismuth stannate using first-principles phonon mode mapping"
   journal: Chemical Science
+  volume: 11
+  pages: 7904-7909
   year: 2020
   doi: 10.1039/D0SC02995E
   chemrxiv: Polymorph_Exploration_of_Bismuth_Stannate_Using_First-principles_Phonon_Mode_Mapping/12318752
@@ -69,7 +78,10 @@
     - V. R. Dhanak
   title: "Sn 5<i>s</i><sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation"
   journal: Physical Review Materials
+  volume: 4
+  pages: 074602
   year: 2020
+  doi: 10.1103/PhysRevMaterials.4.074602
 
 - type: journal-article
   authors:
@@ -79,6 +91,9 @@
     - S. C. Parker
   title: "Accuracy of hybrid functionals with non-self-consistent Kohn-Sham orbitals for predicting the properties of semiconductors"
   journal: Journal of Chemical Theory and Computation
+  volume: 16
+  issue: 6
+  pages: 3543–3557
   year: 2020
   doi: 10.1021/acs.jctc.9b01218
 
