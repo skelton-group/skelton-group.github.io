@@ -10,7 +10,7 @@ title: People
 ### Dr Jonathan Skelton (PI)
 -----------
 
-<img src="./assets/images/People-JonathanSkelton.jpg" width="150" alt="Jonathan Skelton" width="150" style="float: left; margin: 7.5px 7.5px 7.5px 0px;">
+<img src="./assets/images/People-JonathanSkelton.jpg" width="150" alt="Jonathan Skelton" width="200" style="float: left; border-radius: 100px; margin: 10px;">
 
 Jonathan joined the University of Manchester in 2018 on a Presidential Fellowship.
 He was previously a post-doctoral researcher at the University of Bath with Profs. Aron Walsh, Steve Parker and Paul Raithby.
