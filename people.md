@@ -26,33 +26,3 @@ He also helps design and run several comp. chem. experiments for the 3<sup>rd</s
 On the (currently rare) occasions when he is not buried in research and teaching, Jonathan also enjoys cooking, photography and gardening.
 
 <br style="clear: both;">
-
-### Ioanna Pallikara (PhD student)
-----------
-
-<br>
-
-### Matt Brown (PhD student)
-----------
-
-<br>
-
-### Jianqin Tang (M. Sc. student)
-----------
-
-<br>
-
-### Sophie Guillemot (M. Chem. student)
-----------
-
-<br>
-
-### Ben Asher (M. Chem. student)
-----------
-
-<br>
-
-### Past students
-----------
-
-<br>
