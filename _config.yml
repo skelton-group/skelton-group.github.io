@@ -16,6 +16,8 @@ navbar:
     text: "People"
   - link: publications.html
     text: "Publications"
+  - link: software.html
+    text: "Software"
   - link: opportunities.html
     text: "Opportunities"
   - link: contact.html
