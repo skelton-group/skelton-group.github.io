@@ -1,5 +1,8 @@
 ---
 title: Contact
+
+custom_css:
+  - "/assets/css/contact.css"
 ---
 
 ## Contact us
@@ -19,7 +22,7 @@ Department of Chemistry, University of Manchester
 <br>
 Oxford Road, Manchester M13 9PL, UK
 
-The Dover Street Building is number 70 on the [campus map](https://www.manchester.ac.uk/discover/maps/)).
+The Dover Street Building is number 70 on the [campus map](https://www.manchester.ac.uk/discover/maps/).
 
 <div class="google_maps_container">
   <iframe class="google_maps_iframe" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJhwsedI6xe0gRaJoBBVeIJgQ&key=AIzaSyCfzuZJq2SnJ_cSZ57oddCx333HkNhtyyA"></iframe>
