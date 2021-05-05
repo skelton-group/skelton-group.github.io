@@ -31,6 +31,26 @@ custom_css:
 
 <br style="clear: both;">
 
+### Joseph (Joe) Flitcroft (PDRA)
+----------
+
+<div class="bio">
+  <img src="/assets/images/People-JosephFlitcroft.jpg" alt="Joe Flitcroft" class="headshot">
+  <span>
+    <p>
+      Joe is a PDRA in computational materials chemistry.
+      He obtained a 2.1 degree in Chemistry at the University of Bath, UK (2013) before continuing to a PhD in computational chemistry, also at the University of Bath (2018).
+    </p>
+    <p>
+      He has completed several postdoctoral research positions on hybrid thermometric materials, ceria-based "nanozymes" and graphene-based phosphate sensors.
+      He is currently researching chalcogenide and skutterudite-based thermoelectric materials.
+    </p>
+    <p>Outside of research, Joe is a keen athlete, specialising in hammer throwing.</p>
+  </span>
+</div>
+
+<br style="clear: both;">
+
 ### Ioanna Pallikara (PhD student)
 ----------
 
