@@ -39,7 +39,7 @@ custom_css:
   <span>
     <p>
       Ioanna completed her undergraduate studies at The University of Manchester.
-      Her 4<sup>th</sup>-year MChem project involved using atomistic molecular dynamic simulations for the structural determination of giant supramolecular assemblies, under the supervision of Dr Neil Burton. 
+      Her 4<sup>th</sup>-year MChem project involved using atomistic molecular dynamic simulations for the structural determination of giant supramolecular assemblies, under the supervision of Dr Neil Burton.
     </p>
     <p>Her PhD project is focused on using high-throughput quasi-harmonic lattice-dynamics calculations to set up a database of calculated elastic and thermal properties of materials, which will be used to search for new structure-property relationships.</p>
     <p>
@@ -60,23 +60,6 @@ custom_css:
     <p>Matt completed his M. Chem. degree at the University of Southampton in 2019.</p>
     <p>He is now working with the Skelton and Popelier groups on protocols for matching periodic density-functional theory (DFT) calculations with Interacting Quantum Atoms calculations to identify key interactions in molecular solids and understand the energy differences between polymorphs.</p>
     <p>Outside of chemistry, Matt likes to read fantasy books, baking and running.</p>
-  </span>
-</div>
-
-<br style="clear: both;">
-
-### Jianqin Tang (MSc student)
-----------
-
-<div class="bio">
-  <img src="/assets/images/People-JianqinTang.jpg" alt="Jianqin Tang" class="headshot">
-  <span>
-    <p>Jianqin is an M. Sc. student in the group.</p>
-    <p>
-      He is interested in using modelling to study the thermal transport in "framework" structures such as chathrates and Skutterudites (e.g. CoSb<sub>3</sub>).
-      By filling the cavities in framework structures with ions or small molecules, the electrical and thermal properties can be tuned for thermoelectric applications.
-    </p>
-    <p>His project examined the effect of filling CoSb<sub>3</sub> with noble gas atoms on the heat transport, aiming to understand the separate influences of the atomic mass and the atomic radius and interaction with the host framework.</p>
   </span>
 </div>
 
@@ -123,6 +106,10 @@ custom_css:
   <div class="past_item">
     <img src="/assets/images/People-JiayiCen.jpg" class="headshot">
     <h5>Jiayi Cen<br>(MChem 2019-20)</h5>
+  </div>
+  <div class="past_item">
+    <img src="/assets/images/People-JianqinTang.jpg" class="headshot">
+    <h5>Jianqin Tamg<br>(MSc 2019-20)</h5>
   </div>
 </div>
 
