@@ -176,7 +176,7 @@ publication_types:
 
                 {% if record.chemrxiv %}
                     {%- capture list_item %}
-                        {{ list_item }}, ChemRxiv: <a href="https://doi.org/{{record.arxiv}}" target="_blank">{{ record.chemrxiv }}</a>
+                        {{ list_item }}, ChemRxiv: <a href="https://doi.org/{{record.chemrxiv}}" target="_blank">{{ record.chemrxiv }}</a>
                     {%- endcapture %}
                 {% endif %}
 
