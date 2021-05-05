@@ -174,6 +174,12 @@ publication_types:
                     {%- endcapture %}
                 {% endif %}
 
+                {% if record.chemrxiv %}
+                    {%- capture list_item %}
+                        {{ list_item }}, ChemRxiv: <a href="https://doi.org/{{record.arxiv}}" target="_blank">{{ record.chemrxiv }}</a>
+                    {%- endcapture %}
+                {% endif %}
+
                 {% comment %} Strip whitespace and add list item to group. {% endcomment %}
 
                 {% assign list_item = list_item | strip %}

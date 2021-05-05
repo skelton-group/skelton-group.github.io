@@ -1,5 +1,39 @@
 - type: preprint
   authors:
+    - A. Sauza-de la Vega
+    - L. J. Duarte
+    - A. Silva
+    - J. Skelton
+    - T. Rocha-Rinza
+    - P. Popelier
+  title: "Towards an Atomistic Understanding of Polymorphism in Molecular Solids"
+  year: 2021
+  chemrxiv: 10.26434/chemrxiv.14369726.v1
+
+- type: preprint
+  authors:
+    - I. Pallikara
+    - J. Skelton
+  title: "Phase Stability of the Tin Monochalcogenides SnS and SnSe: A Quasi-Harmonic Lattice-Dynamics Study"
+  year: 2021
+  chemrxiv: 10.26434/chemrxiv.14187689.v1
+
+- type: preprint
+  authors:
+    - A. Pallipurath
+    - F. Civati
+    - J. Skelton
+    - D. Keeble
+    - C. Crowley
+    - M.-E. Crowley
+    - P. McArdle
+    - A. Erxleben
+  title: "Real-Space X-Ray Pair Distribution Function Analysis and Molecular-Dynamics Modelling of Diflunisal Channel Hydrates"
+  year: 2020
+  chemrxiv: 10.26434/chemrxiv.12837524.v1
+
+- type: preprint
+  authors:
     - E. Lora da Silva
     - J. M. Skelton
     - P. Rodr&iacute;guez-Hern&aacute;ndez
@@ -12,6 +46,53 @@
 
 - type: journal-article
   authors:
+    - A. R. Pallipurath
+    - J. M. Skelton
+    - A. Britton
+    - E. A. Willneff
+    - S. L. M. Schroeder
+  title: "Bulk and Surface Conformations in Solid-State Lovastatin: Spectroscopic and Molecular Dynamics Studies"
+  journal: "Crystals"
+  volume: 11
+  issue: 5
+  article_number: 509
+  year: 2021
+  doi: 10.3390/cryst11050509
+
+- type: journal-article
+  authors:
+    - J. Tang
+    - J. M. Skelton
+  title: "Impact of noble-gas filler atoms on the lattice thermal conductivity of CoSb<sub>3</sub> skutterudites: first-principles modelling"
+  journal: "Journal of Physics: Condensed Matter"
+  volume: 33
+  issue: 16
+  article_number: 164002
+  year: 2021
+  doi: 10.1088/1361-648X/abd8b8
+
+- type: journal-article
+  authors:
+    - A. Haque
+    - R. Al-Balushi
+    - I. J. Al-Busaidi
+    - N. K. Al-Rasbi
+    - S. Al-Bahri
+    - M. K. Al-Suti
+    - M. S. Khan
+    - O. K. Abou-Zied
+    - J. M. Skelton
+    - P. R. Raithby
+  title: "Two Is Better than One? Investigating the Effect of Incorporating Re(CO)<sub>3</sub>Cl Side Chains into Pt(II) Diynes and Polyynes"
+  journal: "Inorganic Chemistry"
+  volume: 60
+  issue: 2
+  pages: 745-759
+  year: 2020
+  doi: 10.1021/acs.inorgchem.0c02747
+
+- type: journal-article
+  authors:
     - W. Rahim
     - J. Skelton
     - D. Scanlon
@@ -20,7 +101,7 @@
   volume: 8
   pages: 16405-16420
   year: 2020
-  chemrxiv: _-Bi2Sn2O7_A_Potential_Room_Temperature_n-type_Oxide_Thermoelectric/12420242
+  chemrxiv: 10.26434/chemrxiv.12420242.v1
 
 - type: journal-article
   authors:
@@ -36,7 +117,7 @@
   issue: 17
   pages: 7542–7550
   year: 2020
-  chemrxiv: Chemical_Trends_in_the_Lattice_Thermal_Conductivity_of_Li_Ni_Mn_Co_O_sub_2_sub_NMC_Battery_Cathodes/12320033
+  chemrxiv: 10.26434/chemrxiv.12320033.v1
 
 - type: journal-article
   authors:
@@ -53,7 +134,7 @@
   pages: 7904-7909
   year: 2020
   doi: 10.1039/D0SC02995E
-  chemrxiv: Polymorph_Exploration_of_Bismuth_Stannate_Using_First-principles_Phonon_Mode_Mapping/12318752
+  chemrxiv: 10.26434/chemrxiv.12318752.v1
 
 - type: journal-article
   authors:
@@ -79,7 +160,7 @@
   title: "Sn 5<i>s</i><sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation"
   journal: Physical Review Materials
   volume: 4
-  pages: 074602
+  article_number: 074602
   year: 2020
   doi: 10.1103/PhysRevMaterials.4.074602
 
@@ -120,7 +201,7 @@
   title: "Understanding magnetic relaxation in single-ion magnets with high blocking temperature"
   journal: Physical Review B
   volume: 101
-  pages: 174402
+  article_number: 174402
   year: 2020
   doi: 10.1103/PhysRevB.101.174402
 
@@ -131,7 +212,7 @@
   journal: "Journal of Physics: Energy"
   volume: 2
   issue: 2
-  pages: 025006
+  article_number: 025006
   year: 2020
   doi: 10.1088/2515-7655/ab7839
   arxiv: 2001.11311
@@ -149,7 +230,7 @@
   article_number: 024703
   year: 2020
   doi: 10.1063/1.5131575
-  chemrxiv: Assessment_of_Dynamic_Structural_Instabilities_Across_24_Cubic_Inorganic_Halide_Perovskites/9976868
+  chemrxiv: 10.26434/chemrxiv.9976868.v1
 
 - type: conference-proceedings
   authors:
@@ -167,6 +248,32 @@
   year: 2020
   doi: 10.1016/j.matpr.2019.10.076
   arxiv: 1809.06555
+
+- type: book-chapter
+  authors:
+    - L. E. Hatcher
+    - M. R. Warren
+    - A. R. Pallipurath
+    - L. K. Saunders
+    - J. M. Skelton
+  title: "Watching Photochemistry Happen: Recent Developments in Dynamic Single-Crystal X-Ray Diffraction Studies"
+  book_title: "21st Century Challenges in Chemical Crystallography I: History and Technical Developments"
+  editors:
+    - D. M. P. Mingos
+    - P. R. Raithby
+  series: "Structure and Bonding"
+  volume: 185
+  year: 2020
+  publisher: Springer Nature
+  publication_place: Switzerland
+  doi: 10.1007/978-3-030-64743-8
+  isbn:
+    - type: hardcover
+      number: 978-3-030-64742-1
+    - type: softcover
+      number: 978-3-030-64745-2
+    - type: online
+      number: 978-3-030-64743-8
 
 - type: journal-article
   authors:
@@ -282,7 +389,7 @@
   pages: 5552-5556
   year: 2019
   doi: 0.1021/acs.jpclett.9b02073
-  chemrxiv: Highly_Anisotropic_Thermal_Transport_in_LiCoO2/8874404
+  chemrxiv: 10.26434/chemrxiv.8874404.v2
 
 - type: journal-article
   authors:
@@ -333,7 +440,7 @@
   pages: 641
   year: 2019
   doi: 10.3390/molecules24030641
-  chemrxiv: Intrinsic_Flexibility_of_the_EMT_Zeolite_Framework_Under_Pressure/7588733
+  chemrxiv: 10.26434/chemrxiv.7588733.v1
 
 - type: journal-article
   authors:
