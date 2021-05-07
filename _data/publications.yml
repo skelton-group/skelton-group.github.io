@@ -1,5 +1,21 @@
 - type: preprint
   authors:
+    - W. Rahim
+    - J. M. Skelton
+    - D. O. Scanlon
+  title: "Ca<sub>4</sub>Sb<sub>2</sub>O and Ca<sub>4</sub>Bi<sub>2</sub>O: Two Promising Mixed-AnionThermoelectrics"
+  year: 2021
+  chemrxiv: 10.26434/chemrxiv.14541801.v1
+
+- type: preprint
+  authors:
+    - J. M. Skelton
+  title: "Approximate  models  for  the  lattice  thermal  conductivity  of  alloy thermoelectrics"
+  year: 2021
+  chemrxiv: 10.26434/chemrxiv.14540358.v1
+
+- type: preprint
+  authors:
     - A. Sauza-de la Vega
     - L. J. Duarte
     - A. Silva
