@@ -1,18 +1,11 @@
 - type: preprint
   authors:
-    - W. Rahim
-    - J. M. Skelton
-    - D. O. Scanlon
-  title: "Ca<sub>4</sub>Sb<sub>2</sub>O and Ca<sub>4</sub>Bi<sub>2</sub>O: Two Promising Mixed-AnionThermoelectrics"
+    - J. Cen
+    - I. Pallikara
+    - J. Skelton
+  title: "Structural Dynamics and Thermal Transport in Bismuth Chalcogenide Alloys"
   year: 2021
-  chemrxiv: 10.26434/chemrxiv.14541801.v1
-
-- type: preprint
-  authors:
-    - J. M. Skelton
-  title: "Approximate  models  for  the  lattice  thermal  conductivity  of  alloy thermoelectrics"
-  year: 2021
-  chemrxiv: 10.26434/chemrxiv.14540358.v1
+  chemrxiv: 10.33774/chemrxiv-2021-8487n
 
 - type: preprint
   authors:
@@ -24,7 +17,7 @@
     - P. Popelier
   title: "Towards an Atomistic Understanding of Polymorphism in Molecular Solids"
   year: 2021
-  chemrxiv: 10.26434/chemrxiv.14369726.v1
+  chemrxiv: 10.26434/chemrxiv.14369726
 
 - type: preprint
   authors:
@@ -32,7 +25,7 @@
     - J. Skelton
   title: "Phase Stability of the Tin Monochalcogenides SnS and SnSe: A Quasi-Harmonic Lattice-Dynamics Study"
   year: 2021
-  chemrxiv: 10.26434/chemrxiv.14187689.v1
+  chemrxiv: 10.26434/chemrxiv.14187689
 
 - type: preprint
   authors:
@@ -46,7 +39,7 @@
     - A. Erxleben
   title: "Real-Space X-Ray Pair Distribution Function Analysis and Molecular-Dynamics Modelling of Diflunisal Channel Hydrates"
   year: 2020
-  chemrxiv: 10.26434/chemrxiv.12837524.v1
+  chemrxiv: 10.26434/chemrxiv.12837524
 
 - type: preprint
   authors:
@@ -59,6 +52,26 @@
   title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
   year: 2019
   arxiv: 1904.09181
+
+- type: journal-article
+  authors:
+    - W. Rahim
+    - J. M. Skelton
+    - D. O. Scanlon
+  title: "Ca<sub>4</sub>Sb<sub>2</sub>O and Ca<sub>4</sub>Bi<sub>2</sub>O: Two Promising Mixed-AnionThermoelectrics"
+  journal: Journal of Materials Chemistry A
+  year: 2021
+  doi: 10.1039/D1TA03649A
+  chemrxiv: 10.26434/chemrxiv.14541801
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+  title: "Approximate  models  for  the  lattice  thermal  conductivity  of  alloy thermoelectrics"
+  journal: Journal of Materials Chemistry C
+  year: 2021
+  doi: 10.1039/D1TC02026A
+  chemrxiv: 10.26434/chemrxiv.14540358
 
 - type: journal-article
   authors:
@@ -86,6 +99,7 @@
   article_number: 164002
   year: 2021
   doi: 10.1088/1361-648X/abd8b8
+  chemrxiv: 10.26434/chemrxiv.13227836
 
 - type: journal-article
   authors:
@@ -117,7 +131,7 @@
   volume: 8
   pages: 16405-16420
   year: 2020
-  chemrxiv: 10.26434/chemrxiv.12420242.v1
+  chemrxiv: 10.26434/chemrxiv.12420242
 
 - type: journal-article
   authors:
@@ -133,7 +147,7 @@
   issue: 17
   pages: 7542–7550
   year: 2020
-  chemrxiv: 10.26434/chemrxiv.12320033.v1
+  chemrxiv: 10.26434/chemrxiv.12320033
 
 - type: journal-article
   authors:
@@ -150,7 +164,7 @@
   pages: 7904-7909
   year: 2020
   doi: 10.1039/D0SC02995E
-  chemrxiv: 10.26434/chemrxiv.12318752.v1
+  chemrxiv: 10.26434/chemrxiv.12318752
 
 - type: journal-article
   authors:
@@ -246,7 +260,7 @@
   article_number: 024703
   year: 2020
   doi: 10.1063/1.5131575
-  chemrxiv: 10.26434/chemrxiv.9976868.v1
+  chemrxiv: 10.26434/chemrxiv.9976868
 
 - type: conference-proceedings
   authors:
@@ -405,7 +419,7 @@
   pages: 5552-5556
   year: 2019
   doi: 0.1021/acs.jpclett.9b02073
-  chemrxiv: 10.26434/chemrxiv.8874404.v2
+  chemrxiv: 10.26434/chemrxiv.8874404
 
 - type: journal-article
   authors:
@@ -456,7 +470,7 @@
   pages: 641
   year: 2019
   doi: 10.3390/molecules24030641
-  chemrxiv: 10.26434/chemrxiv.7588733.v1
+  chemrxiv: 10.26434/chemrxiv.7588733
 
 - type: journal-article
   authors:
