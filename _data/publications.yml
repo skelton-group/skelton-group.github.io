@@ -55,6 +55,21 @@
 
 - type: journal-article
   authors:
+    - J. Tse
+    - A. Aziz
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - S. C. Parker
+    - D. J. Cooke
+    - M. Molinari
+  title: "Unraveling the Impact of Graphene Addition to Thermoelectric SrTiO<sub>3</sub> and La-Doped SrTiO<sub>3</sub> Materials: A Density Functional Theory Study"
+  journal: ACS Applied Materials & Interfaces
+  year: 2021
+  doi: 10.1021/acsami.1c10865
+
+- type: journal-article
+  authors:
     - W. Rahim
     - J. M. Skelton
     - D. O. Scanlon
