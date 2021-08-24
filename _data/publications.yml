@@ -21,14 +21,6 @@
 
 - type: preprint
   authors:
-    - I. Pallikara
-    - J. Skelton
-  title: "Phase Stability of the Tin Monochalcogenides SnS and SnSe: A Quasi-Harmonic Lattice-Dynamics Study"
-  year: 2021
-  chemrxiv: 10.26434/chemrxiv.14187689
-
-- type: preprint
-  authors:
     - A. Pallipurath
     - F. Civati
     - J. Skelton
@@ -52,6 +44,16 @@
   title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
   year: 2019
   arxiv: 1904.09181
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - J. Skelton
+  title: "Phase Stability of the Tin Monochalcogenides SnS and SnSe: A Quasi-Harmonic Lattice-Dynamics Study"
+  journal: Physical Chemistry Chemical Physics
+  year: 2021
+  doi: 10.1039/D1CP02597J
+  chemrxiv: 10.26434/chemrxiv.14187689
 
 - type: journal-article
   authors:
