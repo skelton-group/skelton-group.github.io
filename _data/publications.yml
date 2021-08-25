@@ -91,7 +91,7 @@
   chemrxiv: 10.26434/chemrxiv.14540358
 
 - type: journal-article
-- authors:
+  authors:
     - I. Juma Al-Busaidi
     - A. Haque
     - R. A. Al-Balushi
@@ -109,6 +109,8 @@
     - M. S. Khan
   title: "Synthesis, characterization, and optoelectronic properties of phenothiazine-based organic co-poly-ynes"
   journal: New Journal of Chemistry
+  volume: 45
+  pages: 15082-15095
   year: 2021
   doi: 10.1039/D1NJ00925G
 
