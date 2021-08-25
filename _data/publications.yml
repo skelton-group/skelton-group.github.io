@@ -91,6 +91,28 @@
   chemrxiv: 10.26434/chemrxiv.14540358
 
 - type: journal-article
+- authors:
+    - I. Juma Al-Busaidi
+    - A. Haque
+    - R. A. Al-Balushi
+    - J. A. Rather
+    - A. Munam
+    - R. Ilmi
+    - P. R. Raithby
+    - Y. Zhang
+    - Y. Fu
+    - Z. Xie
+    - S. Chen
+    - S. M. Islam
+    - W.-Y. Wong
+    - J. M. Skelton
+    - M. S. Khan
+  title: "Synthesis, characterization, and optoelectronic properties of phenothiazine-based organic co-poly-ynes"
+  journal: New Journal of Chemistry
+  year: 2021
+  doi: 10.1039/D1NJ00925G
+
+- type: journal-article
   authors:
     - A. R. Pallipurath
     - J. M. Skelton
