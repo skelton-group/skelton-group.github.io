@@ -83,6 +83,24 @@
 
 - type: journal-article
   authors:
+    - J. G. Lee
+    - A. B. Naden
+    - C. D. Savaniu
+    - P. A. Connor
+    - J. L. Payne
+    - J. M. Skelton
+    - A. S. Gibbs
+    - J. Hui
+    - S. C. Parker
+    - J. T. S. Irvine
+  title: "Use of Interplay between A-Site Non-Stoichiometry and Hydroxide Doping to Deliver Novel Proton-Conducting Perovskite Oxides"
+  journal: Advanced Energy Materials
+  article_number: 2101337
+  year: 2021
+  doi: 10.1002/aenm.202101337
+
+- type: journal-article
+  authors:
     - J. M. Skelton
   title: "Approximate  models  for  the  lattice  thermal  conductivity  of  alloy thermoelectrics"
   journal: Journal of Materials Chemistry C
