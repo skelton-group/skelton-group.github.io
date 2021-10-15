@@ -47,10 +47,33 @@
 
 - type: journal-article
   authors:
+    - M. J. Smiles
+    - J. M. Skelton
+    - H. Shiel
+    - L. A. H. Jones
+    - J. E. N. Swallow
+    - H. J. Edwards
+    - P. A. E. Murgatroyd
+    - T. J. Featherstone
+    - P. K. Thakur
+    - T.-L. Lee
+    - V. R. Dhanak
+    - T. D. Veal
+  title: "Ge 4s<sup>2</sup> lone pairs and band alignments in GeS and GeSe for photovoltaics"
+  journal: Journal of Materials Chemistry A
+  volume: 9
+  pages: 22440-22452
+  year: 2021
+  doi: 10.1039/D1TA05955F
+
+- type: journal-article
+  authors:
     - I. Pallikara
     - J. Skelton
   title: "Phase Stability of the Tin Monochalcogenides SnS and SnSe: A Quasi-Harmonic Lattice-Dynamics Study"
   journal: Physical Chemistry Chemical Physics
+  volume: 23
+  pages: 19219-19236
   year: 2021
   doi: 10.1039/D1CP02597J
   chemrxiv: 10.26434/chemrxiv.14187689
@@ -67,6 +90,9 @@
     - M. Molinari
   title: "Unraveling the Impact of Graphene Addition to Thermoelectric SrTiO<sub>3</sub> and La-Doped SrTiO<sub>3</sub> Materials: A Density Functional Theory Study"
   journal: ACS Applied Materials & Interfaces
+  volume: 13
+  issue: 34
+  pages: 41303–41314
   year: 2021
   doi: 10.1021/acsami.1c10865
 
@@ -77,6 +103,8 @@
     - D. O. Scanlon
   title: "Ca<sub>4</sub>Sb<sub>2</sub>O and Ca<sub>4</sub>Bi<sub>2</sub>O: Two Promising Mixed-AnionThermoelectrics"
   journal: Journal of Materials Chemistry A
+  volume: 9
+  pages: 20417-20435
   year: 2021
   doi: 10.1039/D1TA03649A
   chemrxiv: 10.26434/chemrxiv.14541801
@@ -95,6 +123,8 @@
     - J. T. S. Irvine
   title: "Use of Interplay between A-Site Non-Stoichiometry and Hydroxide Doping to Deliver Novel Proton-Conducting Perovskite Oxides"
   journal: Advanced Energy Materials
+  volume: 11
+  issue: 37
   article_number: 2101337
   year: 2021
   doi: 10.1002/aenm.202101337
@@ -104,6 +134,8 @@
     - J. M. Skelton
   title: "Approximate  models  for  the  lattice  thermal  conductivity  of  alloy thermoelectrics"
   journal: Journal of Materials Chemistry C
+  volume: 9
+  pages: 11772-11787
   year: 2021
   doi: 10.1039/D1TC02026A
   chemrxiv: 10.26434/chemrxiv.14540358
