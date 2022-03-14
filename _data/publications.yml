@@ -1,11 +1,12 @@
 - type: preprint
   authors:
-    - J. Cen
     - I. Pallikara
-    - J. Skelton
-  title: "Structural Dynamics and Thermal Transport in Bismuth Chalcogenide Alloys"
-  year: 2021
-  chemrxiv: 10.33774/chemrxiv-2021-8487n
+    - P. Kayastha
+    - J. M. Skelton
+    - L. D. Whalley
+  title: "The Physical Significance of Imaginary Phonon Modes in Crystals"
+  year: 2022
+  arxiv: 2203.01244
 
 - type: preprint
   authors:
@@ -44,6 +45,40 @@
   title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
   year: 2019
   arxiv: 1904.09181
+
+- type: journl-article
+  authors:
+    - S. Moxon
+    - J. Skelton
+    - J. S. Tse
+    - J. Flitcroft
+    - A. Togo
+    - D. J. Cooke
+    - E. L. da Silva
+    - R. M. Harker
+    - M. T. Storr
+    - S. C. Parker
+    - M. Molinari
+  title: "Structural dynamics of Schottky and Frenkel defects in ThO<sub>2</sub>: a density-functional theory study"
+  journal: "Journal of Materials Chemistry A"
+  volume: 10
+  pages: 1861-1875
+  year: 2022
+  doi: 10.1039/D1TA10072F
+
+- type: journal-article
+  authors:
+    - J. Cen
+    - I. Pallikara
+    - J. Skelton
+  title: "Structural Dynamics and Thermal Transport in Bismuth Chalcogenide Alloys"
+  journal: "Chemistry of Materials"
+  volume: 33
+  issue: 21
+  pages: 8404-8417
+  year: 2021
+  doi: 10.1021/acs.chemmater.1c02777
+  chemrxiv: 10.33774/chemrxiv-2021-8487n
 
 - type: journal-article
   authors:
