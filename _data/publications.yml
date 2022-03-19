@@ -48,6 +48,19 @@
 
 - type: journal-article
   authors:
+    - J. M. Flitcroft
+    - I. Pallikara
+    - J. M. Skelton
+  title: "Thermoelectric Properties of <i>Pnma</i> and Rocksalt SnS and SnSe"
+  journal: Solids
+  volume: 3
+  issue: 1
+  pages: 155-176
+  year: 2022
+  doi: 10.3390/solids3010011
+
+- type: journal-article
+  authors:
     - S. Moxon
     - J. Skelton
     - J. S. Tse
