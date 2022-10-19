@@ -12,16 +12,72 @@
   year: 2020
   chemrxiv: 10.26434/chemrxiv.12837524
 
-- type: preprint
+- type: journal-article
+  authors:
+    - B. Wei
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Structural Dynamics, Phonon Spectra and Thermal Transport in the Silicon Clathrates"
+  journal: Molecules
+  volume: 27
+  issue: 16
+  artice_number: 6431
+  year: 2022
+  doi: 10.3390/molecules27196431
+
+- type: journal-article
+  authors:
+    - B. Ward-O’Brien
+    - P. D. McNaughter
+    - R. Cai
+    - A. Chattopadhyay
+    - J. M. Flitcroft
+    - C. T. Smith
+    - D. J. Binks
+    - J. M. Skelton
+    - S. J. Haigh
+    - D. J. Lewis
+  title: "Quantum Confined High-Entropy Lanthanide Oxysulfide Colloidal Nanocrystals"
+  journal: "Nano Letters"
+  year: 2022
+  doi: 10.1021/acs.nanolett.2c01596
+
+- type: journal-article
+  authors:
+    - L. E. Hatcher
+    - M. R. Warren
+    - J. M. Skelton
+    - A. R. Pallipurath
+    - L. K. Saunders
+    - D. R. Allan
+    - P. Hathaway
+    - G. Crevatin
+    - D. Omar
+    - B. H. Williams
+    - B. A. Coulson
+    - C. C. Wilson
+    - P. R. Raithby
+  title: "LED-pump-X-ray-multiprobe crystallography for sub-second timescales"
+  journal: "Nature Communications Chemistry"
+  volume: 5
+  article_number: 102
+  year: 2022
+  doi: 10.1038/s42004-022-00716-1
+
+- type: journal-article
   authors:
     - E. Lora da Silva
     - J. M. Skelton
     - P. Rodr&iacute;guez-Hern&aacute;ndez
     - A. Mu&ntilde;oz
+    - M. C. Santos
     - D. Mart&iacute;nez-Garcia
+    - R. Vilaplana
     - F. J. Manj&oacute;n
-  title: "Theoretical study of phase transitions in Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub> under compression"
-  year: 2019
+  title: "A theoretical study of the <i>Pnma</i> and <i>R</i>-3<i>m</i> phases of Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub>"
+  journal: "Journal of Materials Chemistry C"
+  year: 2022
+  doi: 10.1039/D2TC01484J
   arxiv: 1904.09181
 
 - type: journal-article
@@ -32,6 +88,8 @@
     - D. O. Scanlon
   title: "Y<sub>2</sub>Ti<sub>2</sub>O<sub>5</sub>S<sub>2</sub> – a promising n-type oxysulphide for thermoelectric applications"
   journal: "Journal of Materials Chemistry A"
+  volume: 10
+  pages: 16813-16824
   year: 2022
   doi: 10.1039/D2TA04160J
   chemrxiv: 10.26434/chemrxiv-2022-zk09d
@@ -44,6 +102,8 @@
     - L. D. Whalley
   title: "The Physical Significance of Imaginary Phonon Modes in Crystals"
   journal: "Electronic Structure"
+  volume: 4
+  article_number: 033002
   year: 2022
   doi: 10.1088/2516-1075/ac78b3
   arxiv: 2203.01244
@@ -59,7 +119,7 @@
   title: "Towards an Atomistic Understanding of Polymorphism in Molecular Solids"
   journal: "Physical Chemistry Chemical Physics"
   volume: 24
-  pages: 11278-11294 
+  pages: 11278-11294
   year: 2022
   doi: 10.1039/D2CP00457G
   chemrxiv: 10.26434/chemrxiv.14369726
