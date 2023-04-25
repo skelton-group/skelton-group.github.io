@@ -14,6 +14,101 @@
 
 - type: journal-article
   authors:
+    - Y. Liu
+    - P. D. McNaughter
+    - F. Azough
+    - X. Liu
+    - J. M. Skelton
+    - A. V. Kretinin
+    - D. J Lewis
+    - R. Freer
+  title: "Enhanced Thermoelectric Performance of Tin (II) Sulfide Thin Films Prepared by Aerosol Assisted Chemical Vapor Deposition"
+  journal: "ACS Applied Energy Materials"
+  volume: 6
+  issue: 8
+  pages: 4462–4474
+  year: 2023
+  doi: 10.1021/acsaem.3c00608
+
+- type: journal-article
+  authors:
+    - J. Qu
+    - A. Elgendy
+    - R. Cai
+    - M. A. Buckingham
+    - A. A. Papaderakis
+    - H. de Latour
+    - K. Hazeldine
+    - G. F. S. Whitehead
+    - F. Alam
+    - C. T. Smith
+    - D. J. Binks
+    - A. Walton
+    - J. M. Skelton
+    - R. A. W. Dryfe
+    - S. J. Haigh
+    - D. J. Lewis
+  title: "A Low‐Temperature Synthetic Route Toward a High‐Entropy 2D Hexernary Transition Metal Dichalcogenide for Hydrogen Evolution Electrocatalysis"
+  journal: "Advanced Science"
+  artice_number: 2204488
+  year: 2023
+  doi: 10.1002/advs.202204488
+
+- type: journal-article
+  authors:
+    - T. Smith
+    - S. Moxon
+    - J. S. Tse
+    - J. M. Skelton
+    - D. J. Cooke
+    - L. J. Gillie
+    - E. L. da Silva
+    - R. M. Harker
+    - M. T. Storr
+    - S. C. Parker
+    - M. Molinari
+  title: "Structural dynamics of Schottky and Frenkel defects in CeO<sub>2</sub>: a density-functional theory study"
+  journal: "Journal of Physics: Energy"
+  volume: 5
+  artice_number: 025004
+  year: 2023
+  doi: 10.1088/2515-7655/acbb29
+
+- type: journal-article
+  authors:
+    - M. L. Brown
+    - J. M. Skelton
+    - P. L. A. Popelier
+  title: "Construction of a Gaussian Process Regression Model of Formamide for Use in Molecular Simulations"
+  journal: "The Journal of Physical Chemistry A"
+  volume: 127
+  issue: 7
+  pages: 1702–1714
+  year: 2023
+  doi: 10.1021/acs.jpca.2c06566
+
+- type: journal-article
+  authors:
+    - V. S. Parmar
+    - A. M. Thiel
+    - R. Nabi
+    - G. K. Gransbury
+    - M. S. Norre
+    - P. Evans
+    - S. C. Corner
+    - J. M. Skelton
+    - N. F. Chilton
+    - D. P. Mills
+    - J. Overgaard
+  title: "Influence of pressure on a dysprosocenium single-molecule magnet"
+  journal: "Chemical Communications"
+  volume: 59
+  pages: 2656-2659
+  year: 2023
+  doi: 10.1039/D2CC06722F
+
+- type: journal-article
+  authors:
     - B. Wei
     - J. M. Flitcroft
     - J. M. Skelton
