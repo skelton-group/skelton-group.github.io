@@ -129,7 +129,7 @@ custom_css:
   </div>
   <div class="past_item">
     <img src="/assets/images/People-JianqinTang.jpg" class="headshot">
-    <h5>Jianqin Tamg<br>(MSc 2019-20)</h5>
+    <h5>Jianqin Tang<br>(MSc 2019-20)</h5>
   </div>
 </div>
 

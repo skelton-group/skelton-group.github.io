@@ -109,6 +109,23 @@
 
 - type: journal-article
   authors:
+    - A. R. B. J. Lutton-Gething
+    - L. T. Nangkam
+    - J. O. W. Johansson
+    - I. Pallikara
+    - J. M. Skelton
+    - G. F. S. Whitehead
+    - I. Vitorica-Yrezabal
+    - M. P. Attfield
+  title: "Breathing Behaviour Modification of Gallium MIL-53 Metal–Organic Frameworks Induced by the Bridging Framework Inorganic Anion"
+  journal: "Chemistry: A European Journal"
+  volume: 29
+  article-number: e202203773
+  year: 2023
+  doi: 10.1002/chem.202203773
+
+- type: journal-article
+  authors:
     - B. Wei
     - J. M. Flitcroft
     - J. M. Skelton
