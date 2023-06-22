@@ -75,6 +75,8 @@
     - D. J. Lewis
   title: "A Low‐Temperature Synthetic Route Toward a High‐Entropy 2D Hexernary Transition Metal Dichalcogenide for Hydrogen Evolution Electrocatalysis"
   journal: "Advanced Science"
+  volume: 10
+  issue: 14
   artice_number: 2204488
   year: 2023
   doi: 10.1002/advs.202204488
@@ -176,6 +178,9 @@
     - D. J. Lewis
   title: "Quantum Confined High-Entropy Lanthanide Oxysulfide Colloidal Nanocrystals"
   journal: "Nano Letters"
+  volume: 22
+  issue: 20
+  pages: 8045–8051
   year: 2022
   doi: 10.1021/acs.nanolett.2c01596
 
@@ -213,6 +218,8 @@
     - F. J. Manj&oacute;n
   title: "A theoretical study of the <i>Pnma</i> and <i>R</i>-3<i>m</i> phases of Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub>"
   journal: "Journal of Materials Chemistry C"
+  volume: 10
+  pages: 15061-15074
   year: 2022
   doi: 10.1039/D2TC01484J
   arxiv: 1904.09181
