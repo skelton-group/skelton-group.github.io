@@ -1,5 +1,18 @@
 - type: preprint
   authors:
+    - R. Nabi
+    - J. Staab
+    - A. Mattioni
+    - J. Kragskow
+    - D. Reta
+    - J. Skelton
+    - N. Chilton
+  title: "Accurate and efficient spin-phonon coupling and spin dynamics calculations for molecular solids"
+  year: 2023
+  chemrxiv: 10.26434/chemrxiv-2023-6q06z
+
+- type: preprint
+  authors:
     - A. Pallipurath
     - F. Civati
     - J. Skelton
@@ -11,6 +24,18 @@
   title: "Real-Space X-Ray Pair Distribution Function Analysis and Molecular-Dynamics Modelling of Diflunisal Channel Hydrates"
   year: 2020
   chemrxiv: 10.26434/chemrxiv.12837524
+
+- type: journal-article
+  authors:
+    - B. Alnami
+    - J. G. C. Kragskow
+    - J. K. Staab
+    - J. M. Skelton
+    - N. F. Chilton
+  title: "Structural Evolution of Paramagnetic Lanthanide Compounds in Solution Compared to Time- and Ensemble-Average Structures"
+  journal: Journal of the American Chemical Society"
+  year: 2023
+  doi: 10.1021/jacs.3c01342
 
 - type: journal-article
   authors:
