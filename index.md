@@ -18,7 +18,7 @@ We have a long-standing interest in improving materials for energy applications,
 Our work applies and extends established theories to address new problems, with strong focus on making useful methods available to the community through open-source software and on strengthening links between theory and experiment.
 We regularly work with experimental groups to validate theoretical models and to help get the best insight from measurements.
 
-More information about current research prjojects and the team behind them can be found on the [Research](./research.html) and [People](./people.html) pages.
+More information about current research projects and the team behind them can be found on the [Research](./research.html) and [People](./people.html) pages.
 We also have a list of the group [Publications](./publications.html) and the open-source [Software](./software.html) we maintain.
 
 To find out more about us, or if you are interested in joining or collaborating with us, current opportunities are listed on the [Opportunities page](./opportunities) and our contact details are [here](./contact.html).

@@ -27,6 +27,55 @@
 
 - type: journal-article
   authors:
+    - J. S. Tse
+    - J. Grant
+    - J. M. Skelton
+    - L. J. Gillie
+    - R. Zhu
+    - G. L. Pesce
+    - R. J. Ball
+    - S. C. Parker
+    - M. Molinari
+  title: "Location of Artinite (Mg<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>·3H<sub>2</sub>O) within the MgO–CO<sub>2</sub>–H<sub>2</sub>O system using <i>ab initio</i> thermodynamics"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 25
+  pages: 18011-18022
+  year: 2023
+  doi: 10.1039/D3CP00518F
+
+- type: journal-article
+  authors:
+    - N. D. Wood
+    - J. S. Tse
+    - J. M. Skelton
+    - D. J. Cooke
+    - L. J. Gillie
+    - S. C. Parker
+    - M. Molinari
+  title: "First principles insights into oxide/polymer composites: SrTiO<sub>3</sub>/polyaniline/graphene"
+  journal: "Journal of Materials Science & Technology"
+  volume: 166
+  pages: 250-260
+  year: 2023
+  doi: 10.1016/j.jmst.2023.05.019
+
+- type: journal-article
+  authors:
+    - J. G. C. Kragskow
+    - A. Mattioni
+    - J. K. Staab
+    - D. Reta
+    - J. M. Skelton
+    - N. F. Chilton
+  title: "Spin–phonon coupling and magnetic relaxation in single-molecule magnets"
+  journal: "Chemical Society Reviews"
+  volume: 52
+  pages: 4567-4585
+  year: 2023
+  doi: 10.1039/D2CS00705C
+
+- type: journal-article
+  authors:
     - B. Alnami
     - J. G. C. Kragskow
     - J. K. Staab
