@@ -27,6 +27,16 @@
 
 - type: journal-article
   authors:
+    - M. A. Buckingham
+    - J. M. Skelton
+    - D. J. Lewis
+  title: "Synthetic Strategies toward High Entropy Materials: Atoms-to-Lattices for Maximum Disorder"
+  journal: "Crystal Growth & Design"
+  year: 2023
+  doi: 10.1021/acs.cgd.3c00712
+
+- type: journal-article
+  authors:
     - J. S. Tse
     - J. Grant
     - J. M. Skelton
