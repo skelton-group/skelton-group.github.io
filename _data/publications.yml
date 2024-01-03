@@ -9,47 +9,6 @@
 
 - type: preprint
   authors:
-    - A. Khan
-    - J. Flitcroft
-    - J. Skelton
-  title: "Thermoelectric Properties of n-type CaTiO<sub>3</sub>, SrTiO<sub>3</sub> and BaTiO<sub>3</sub>"
-  year: 2023
-  chemrxiv: 10.26434/chemrxiv-2023-q81v4
-
-- type: preprint
-  authors:
-    - M. Zhang
-    - J. Flictroft
-    - S. Guillemot
-    - J. Skelton
-  title: "Thermoelectric properties of <i>Pnma</i> and <i>R3m</i> GeS and GeSe"
-  year: 2023
-  chemrxiv: 10.26434/chemrxiv-2023-8p491
-
-- type: preprint
-  authors:
-    - M. L. Brown
-    - J. M. Skelton
-    - P. L. A. Popelier
-  title: "Application of the FFLUX Force Field to Molecular Crystals: A Study of Formamide"
-  year: 2023
-  chemrxiv: 10.26434/chemrxiv-2023-qc1h4
-
-- type: preprint
-  authors:
-    - R. Nabi
-    - J. Staab
-    - A. Mattioni
-    - J. Kragskow
-    - D. Reta
-    - J. Skelton
-    - N. Chilton
-  title: "Accurate and efficient spin-phonon coupling and spin dynamics calculations for molecular solids"
-  year: 2023
-  chemrxiv: 10.26434/chemrxiv-2023-6q06z
-
-- type: preprint
-  authors:
     - A. Pallipurath
     - F. Civati
     - J. Skelton
@@ -61,6 +20,42 @@
   title: "Real-Space X-Ray Pair Distribution Function Analysis and Molecular-Dynamics Modelling of Diflunisal Channel Hydrates"
   year: 2020
   chemrxiv: 10.26434/chemrxiv.12837524
+
+- type: journal-article
+  authors:
+    - A. Khan
+    - J. Flitcroft
+    - J. Skelton
+  title: "Thermoelectric Properties of n-type CaTiO<sub>3</sub>, SrTiO<sub>3</sub> and BaTiO<sub>3</sub>"
+  journal: "Materials Advances"
+  year: 2024
+  doi: 10.1039/D3MA00624G
+  chemrxiv: 10.26434/chemrxiv-2023-q81v4
+
+- type: journal-article
+  authors:
+    - S. Guillemot
+    - A. Suwardi
+    - N. Kaltsoyannis
+    - J. Skelton
+  title: "Impact of crystal structure on the lattice thermal conductivity of the IV-VI chalcogenides"
+  journal: "Journal of Materials Chemistry A"
+  year: 2024
+  doi: 10.1039/D3TA05885A
+  chemrxiv: 10.26434/chemrxiv-2023-5q2v1
+
+- type: journal-article
+  authors:
+    - Y. Liu
+    - J. M. Skelton
+    - X. Xia
+    - Y. Zhu
+    - D. J. Lewis
+    - R. Freer
+  title: "A combined experimental and modelling approach for the evaluation of the thermoelectric properties of Ag-doped SnS"
+  journal: "Journal of Materials Chemistry C"
+  year: 2024
+  doi: 10.1039/D3TC03672C
 
 - type: journal-article
   authors:
@@ -277,6 +272,52 @@
   article-number: e202203773
   year: 2023
   doi: 10.1002/chem.202203773
+
+- type: journal-article
+  authors:
+    - R. Nabi
+    - J. Staab
+    - A. Mattioni
+    - J. Kragskow
+    - D. Reta
+    - J. Skelton
+    - N. Chilton
+  title: "Accurate and efficient spin-phonon coupling and spin dynamics calculations for molecular solids"
+  journal: "Journal of the American Chemical Society"
+  volume: 145
+  issue: 45
+  pages: 24558-24567
+  year: 2023
+  doi: 10.1021/jacs.3c06015
+  chemrxiv: 10.26434/chemrxiv-2023-6q06z
+
+- type: journal-article
+  authors:
+    - M. L. Brown
+    - J. M. Skelton
+    - P. L. A. Popelier
+  title: "Application of the FFLUX Force Field to Molecular Crystals: A Study of Formamide"
+  journal: "Journal of Chemical Theory and Computation"
+  volume: 19
+  issue: 21
+  pages: 7946–7959
+  year: 2023
+  doi: 10.1021/acs.jctc.3c00578
+  chemrxiv: 10.26434/chemrxiv-2023-qc1h4
+
+- type: journal-article
+  authors:
+    - M. Zhang
+    - J. Flictroft
+    - S. Guillemot
+    - J. Skelton
+  title: "Thermoelectric properties of <i>Pnma</i> and <i>R3m</i> GeS and GeSe"
+  journal: "Journal of Materials Chemistry C"
+  volume: 11
+  pages: 14833-14847
+  year: 2023
+  doi: 10.1039/D3TC02938G
+  chemrxiv: 10.26434/chemrxiv-2023-8p491
 
 - type: journal-article
   authors:
