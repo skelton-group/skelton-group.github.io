@@ -29,20 +29,10 @@
   title: "Thermoelectric Properties of n-type CaTiO<sub>3</sub>, SrTiO<sub>3</sub> and BaTiO<sub>3</sub>"
   journal: "Materials Advances"
   year: 2024
+  volume: 5
+  pages: 652-664
   doi: 10.1039/D3MA00624G
   chemrxiv: 10.26434/chemrxiv-2023-q81v4
-
-- type: journal-article
-  authors:
-    - S. Guillemot
-    - A. Suwardi
-    - N. Kaltsoyannis
-    - J. Skelton
-  title: "Impact of crystal structure on the lattice thermal conductivity of the IV-VI chalcogenides"
-  journal: "Journal of Materials Chemistry A"
-  year: 2024
-  doi: 10.1039/D3TA05885A
-  chemrxiv: 10.26434/chemrxiv-2023-5q2v1
 
 - type: journal-article
   authors:
@@ -54,8 +44,36 @@
     - R. Freer
   title: "A combined experimental and modelling approach for the evaluation of the thermoelectric properties of Ag-doped SnS"
   journal: "Journal of Materials Chemistry C"
+  volume: 12
+  pages: 508-520
   year: 2024
   doi: 10.1039/D3TC03672C
+
+- type: journal-article
+  authors:
+    - S. Guillemot
+    - A. Suwardi
+    - N. Kaltsoyannis
+    - J. Skelton
+  title: "Impact of crystal structure on the lattice thermal conductivity of the IV-VI chalcogenides"
+  journal: "Journal of Materials Chemistry A"
+  year: 2024
+  volume: 12
+  pages: 2932-2948
+  doi: 10.1039/D3TA05885A
+  chemrxiv: 10.26434/chemrxiv-2023-5q2v1
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - J. M. Skelton
+  title: "Towards the high-throughput prediction of finite-temperature properties using the quasi-harmonic approximation"
+  journal: "Journal of Physics: Condensed Matter"
+  year: 2024
+  volume: 36
+  issue: 20
+  article_number: 205501
+  doi: 10.1088/1361-648X/ad19a3
 
 - type: journal-article
   authors:
@@ -86,6 +104,9 @@
   title: "BiVO<sub>4</sub> Photoanodes Enhanced with Metal Phosphide Co-Catalysts: Relevant Properties to Boost Photoanode Performance"
   journal: "Small"
   year: 2023
+  volume: 20
+  issue: 7
+  artice_number: 2306757
   doi: 10.1002/smll.202306757
 
 - type: journal-article
@@ -96,6 +117,9 @@
   title: "Synthetic Strategies toward High Entropy Materials: Atoms-to-Lattices for Maximum Disorder"
   journal: "Crystal Growth & Design"
   year: 2023
+  volume: 23
+  issue: 10
+  pages: 6998-7009
   doi: 10.1021/acs.cgd.3c00712
 
 - type: journal-article
@@ -109,7 +133,7 @@
     - R. J. Ball
     - S. C. Parker
     - M. Molinari
-  title: "Location of Artinite (Mg<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>·3H<sub>2</sub>O) within the MgO–CO<sub>2</sub>–H<sub>2</sub>O system using <i>ab initio</i> thermodynamics"
+  title: "Location of Artinite (Mg<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>·3H<sub>2</sub>O) within the MgO-CO<sub>2</sub>-H<sub>2</sub>O system using <i>ab initio</i> thermodynamics"
   journal: "Physical Chemistry Chemical Physics"
   volume: 25
   pages: 18011-18022
@@ -140,7 +164,7 @@
     - D. Reta
     - J. M. Skelton
     - N. F. Chilton
-  title: "Spin–phonon coupling and magnetic relaxation in single-molecule magnets"
+  title: "Spin-phonon coupling and magnetic relaxation in single-molecule magnets"
   journal: "Chemical Society Reviews"
   volume: 52
   pages: 4567-4585
@@ -173,7 +197,7 @@
   journal: "ACS Applied Energy Materials"
   volume: 6
   issue: 8
-  pages: 4462–4474
+  pages: 4462-4474
   year: 2023
   doi: 10.1021/acsaem.3c00608
 
@@ -232,7 +256,7 @@
   journal: "The Journal of Physical Chemistry A"
   volume: 127
   issue: 7
-  pages: 1702–1714
+  pages: 1702-1714
   year: 2023
   doi: 10.1021/acs.jpca.2c06566
 
@@ -266,10 +290,11 @@
     - G. F. S. Whitehead
     - I. Vitorica-Yrezabal
     - M. P. Attfield
-  title: "Breathing Behaviour Modification of Gallium MIL-53 Metal–Organic Frameworks Induced by the Bridging Framework Inorganic Anion"
+  title: "Breathing Behaviour Modification of Gallium MIL-53 Metal-Organic Frameworks Induced by the Bridging Framework Inorganic Anion"
   journal: "Chemistry: A European Journal"
   volume: 29
-  article-number: e202203773
+  issue: 21
+  article_number: e202203773
   year: 2023
   doi: 10.1002/chem.202203773
 
@@ -300,7 +325,7 @@
   journal: "Journal of Chemical Theory and Computation"
   volume: 19
   issue: 21
-  pages: 7946–7959
+  pages: 7946-7959
   year: 2023
   doi: 10.1021/acs.jctc.3c00578
   chemrxiv: 10.26434/chemrxiv-2023-qc1h4
@@ -348,7 +373,7 @@
   journal: "Nano Letters"
   volume: 22
   issue: 20
-  pages: 8045–8051
+  pages: 8045-8051
   year: 2022
   doi: 10.1021/acs.nanolett.2c01596
 
@@ -398,7 +423,7 @@
     - K. B. Spooner
     - J. M. Skelton
     - D. O. Scanlon
-  title: "Y<sub>2</sub>Ti<sub>2</sub>O<sub>5</sub>S<sub>2</sub> – a promising n-type oxysulphide for thermoelectric applications"
+  title: "Y<sub>2</sub>Ti<sub>2</sub>O<sub>5</sub>S<sub>2</sub> - a promising n-type oxysulphide for thermoelectric applications"
   journal: "Journal of Materials Chemistry A"
   volume: 10
   pages: 16813-16824
@@ -530,7 +555,7 @@
   journal: "ACS Applied Materials & Interfaces"
   volume: 13
   issue: 34
-  pages: 41303–41314
+  pages: 41303-41314
   year: 2021
   doi: 10.1021/acsami.1c10865
 
@@ -675,7 +700,7 @@
   journal: "Chemistry of Materials"
   volume: 32
   issue: 17
-  pages: 7542–7550
+  pages: 7542-7550
   year: 2020
   doi: 10.1021/acs.chemmater.0c02908
   chemrxiv: 10.26434/chemrxiv.12320033
@@ -735,7 +760,7 @@
   journal: "Journal of Chemical Theory and Computation"
   volume: 16
   issue: 6
-  pages: 3543–3557
+  pages: 3543-3557
   year: 2020
   doi: 10.1021/acs.jctc.9b01218
 
@@ -975,7 +1000,7 @@
     - L. A. Burton
     - S. Metz
     - S. C. Parker
-  title: "Thermodynamics, Electronic Structure, and Vibrational Properties of Sn<sub><i>n</i></sub>(S<sub>1–<i>x</i></sub>Se<sub><i>x</i></sub>)<sub><i>m</i></sub> Solid Solutions for Energy Applications"
+  title: "Thermodynamics, Electronic Structure, and Vibrational Properties of Sn<sub><i>n</i></sub>(S<sub>1-<i>x</i></sub>Se<sub><i>x</i></sub>)<sub><i>m</i></sub> Solid Solutions for Energy Applications"
   journal: "Chemistry of Materials"
   volume: 31
   issue: 10
@@ -1258,7 +1283,7 @@
     - W. J. Gee
     - K. Robertson
     - J. M. Skelton
-  title: "Anion...&pi; Interactions and Metastability: Structural Transformations in a Silver–Pyrazine Network"
+  title: "Anion...&pi; Interactions and Metastability: Structural Transformations in a Silver-Pyrazine Network"
   journal: "European Journal of Inorganic Chemistry"
   volume: 2017
   issue: 19
@@ -1373,7 +1398,7 @@
   journal: "Inorganic Chemistry"
   volume: 55
   issue: 21
-  pages: 10955–10967
+  pages: 10955-10967
   year: 2016
   doi: 10.1021/acs.inorgchem.6b01509
 
@@ -1692,7 +1717,7 @@
   title: "Sulfamerazine: Understanding the influence of slip-planes in polymorphic phase-transformation through X-ray crystallographic studies and <i>ab initio</i> lattice dynamics"
   journal: "Molecular Pharmaceutics"
   volume: 12
-  pages: 3735–3748
+  pages: 3735-3748
   year: 2015
   doi: 10.1021/acs.molpharmaceut.5b00504
 
