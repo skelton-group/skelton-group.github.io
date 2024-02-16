@@ -89,6 +89,9 @@
   title: "Infrared and Raman Diagnostic Modeling of Phosphate Adsorption on Ceria Nanoparticles"
   journal: "The Journal of Physical Chemistry C"
   year: 2023
+  volume: 127
+  issue: 50
+  pages: 20183-20193
   doi: 10.1021/acs.jpcc.3c05409
 
 - type: journal-article
@@ -106,7 +109,7 @@
   year: 2023
   volume: 20
   issue: 7
-  artice_number: 2306757
+  article_number: 2306757
   doi: 10.1002/smll.202306757
 
 - type: journal-article
@@ -181,6 +184,9 @@
   title: "Structural Evolution of Paramagnetic Lanthanide Compounds in Solution Compared to Time- and Ensemble-Average Structures"
   journal: Journal of the American Chemical Society"
   year: 2023
+  volume: 145
+  issue: 25
+  pages: 13632-13639
   doi: 10.1021/jacs.3c01342
 
 - type: journal-article
@@ -353,7 +359,7 @@
   journal: Molecules
   volume: 27
   issue: 16
-  artice_number: 6431
+  article_number: 6431
   year: 2022
   doi: 10.3390/molecules27196431
 
