@@ -1,14 +1,5 @@
 - type: preprint
   authors:
-    - J. Flitcroft
-    - A. Althubiani
-    - J. Skelton
-  title: "Thermoelectric Properties of the Bismuth Oxychalcogenides Bi<sub>2</sub>SO<sub>2</sub>, Bi<sub>2</sub>SeO<sub>2</sub> and Bi<sub>2</sub>TeO<sub>2</sub>"
-  year: 2023
-  chemrxiv: 10.26434/chemrxiv-2023-lh90f
-
-- type: preprint
-  authors:
     - A. Pallipurath
     - F. Civati
     - J. Skelton
@@ -20,6 +11,24 @@
   title: "Real-Space X-Ray Pair Distribution Function Analysis and Molecular-Dynamics Modelling of Diflunisal Channel Hydrates"
   year: 2020
   chemrxiv: 10.26434/chemrxiv.12837524
+
+- type: journal-article
+  authors:
+    - J. Cui
+    - M. Daboczi
+    - Z. Cui
+    - M. Gong
+    - J. Flitcroft
+    - J. Skelton
+    - S. C. Parker
+    - S. Eslava
+  title: "BiVO<sub>4</sub> Photoanodes Enhanced with Metal Phosphide Co-Catalysts: Relevant Properties to Boost Photoanode Performance"
+  journal: "Small"
+  year: 12420242
+  volume: 20
+  issue: 7
+  article_number: 2306757
+  doi: 10.1002/smll.202306757
 
 - type: journal-article
   authors:
@@ -77,6 +86,89 @@
 
 - type: journal-article
   authors:
+    - J. M. Flitcroft
+    - A. Althubiani
+    - J. M. Skelton
+  title: "Thermoelectric Properties of the Bismuth Oxychalcogenides Bi<sub>2</sub>SO<sub>2</sub>, Bi<sub>2</sub>SeO<sub>2</sub> and Bi<sub>2</sub>TeO<sub>2</sub>"
+  journal: "Journal of Physics: Energy"
+  volume: 6
+  issue: 2
+  article_number: 025011
+  year: 2024
+  doi: 10.1088/2515-7655/ad2afd
+  chemrxiv: 10.26434/chemrxiv-2023-lh90f
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - A. R. Symington
+    - J. S. Tse
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - D. J. Cooke
+    - S. C. Parker
+    - M. Molinari
+  title: "Composition-dependent morphologies of CeO<sub>2</sub> nanoparticles in the presence of Co-adsorbed H<sub>2</sub>O and CO<sub>2</sub>: a density functional theory study"
+  journal: "Nanoscale"
+  volume: 16
+  issue: 2023
+  pages: 11232-11249
+  year: 2024
+  doi: 10.1039/D4NR01296H
+
+- type: journal-article
+  authors:
+    - Y. Liu
+    - P. D. McNaughter
+    - X. Liu
+    - A. V. Kretinin
+    - J. M. Skelton
+    - F. Azough
+    - D. J. Lewis
+    - R. Freer
+  title: "Exceptional Thermoelectric Performance of Cu<sub>2</sub>(Zn,Fe,Cd)SnS<sub>4</sub> Thin Films"
+  journal: "ACS Applied Materials & Interfaces"
+  volume: 16
+  issue: 9
+  pages: 11516–11527
+  doi: 10.1021/acsami.3c17730
+
+- type: journal-article
+  authors:
+    - J. J. Morris
+    - C. R. Bowen
+    - B. A. Coulson
+    - M. Eaton
+    - P. R. Raithby
+    - L. K. Saunders
+    - J. M. Skelton
+    - Q. Wang
+    - M. R. Warren
+    - Y. Zhang
+    - L. E. Hatcher
+  title: "Exploring Pyroelectricity, Thermal and Photochemical Switching in a Hybrid Organic-Inorganic Crystal by In Situ X-Ray Diffraction"
+  journal: "Angewandte Chemie International Edition"
+  volume: 63
+  issue: 20
+  article_number: e202401552
+  doi: 0.1002/anie.202401552
+
+- type: journal-article
+  authors:
+    - Y. Zhu
+    - J. M. Skelton
+    - D. J. Lewis
+    - R. Freer
+  title: "Electronic transport and the thermoelectric properties of donor-doped SrTiO<sub>3</sub>"
+  journal: "Journal of Physics: Energy"
+  volume: 6
+  issue: 2
+  article_number: 025027
+  doi: 10.1088/2515-7655/ad405d
+
+- type: journal-article
+  authors:
     - K. M. Ta
     - D. J. Cooke
     - L. J. Gillie
@@ -93,24 +185,6 @@
   issue: 50
   pages: 20183-20193
   doi: 10.1021/acs.jpcc.3c05409
-
-- type: journal-article
-  authors:
-    - J. Cui
-    - M. Daboczi
-    - Z. Cui
-    - M. Gong
-    - J. Flitcroft
-    - J. Skelton
-    - S. C. Parker
-    - S. Eslava
-  title: "BiVO<sub>4</sub> Photoanodes Enhanced with Metal Phosphide Co-Catalysts: Relevant Properties to Boost Photoanode Performance"
-  journal: "Small"
-  year: 2023
-  volume: 20
-  issue: 7
-  article_number: 2306757
-  doi: 10.1002/smll.202306757
 
 - type: journal-article
   authors:
