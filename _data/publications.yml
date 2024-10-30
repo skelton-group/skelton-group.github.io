@@ -172,6 +172,62 @@
 
 - type: journal-article
   authors:
+    - M. L. Brown
+    - B. K. Isamura
+    - J. M. Skelton
+    - P. L. A. Popelier
+  title: "Incorporating Noncovalent Interactions in Transfer Learning Gaussian Process Regression Models for Molecular Simulations"
+  journal: "Journal of Chemical Theory and Computation"
+  volume: 20
+  issue: 14
+  pages: 5994-6008
+  year: 2024
+  doi: 10.1021/acs.jctc.4c00402
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - J. M. Skelton
+    - L. E. Hatcher
+    - A. R. Pallipurath
+  title: "Going beyond the Ordered Bulk: A Perspective on the Use of the Cambridge Structural Database for Predictive Materials Design"
+  journal: "Crystal Growth & Design"
+  volume: 24
+  issue: 17
+  pages: 6911-6930
+  year: 2024
+  doi: 10.1021/acs.cgd.4c00694
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - J. M. Flitcroft
+    - L. J. Gillie
+    - D. J. Cooke
+    - J. M. Skelton
+    - S. C. Parker
+    - M. Molinari
+  title: "Composition-dependent morphology of stoichiometric and oxygen deficient PuO<sub>2</sub> nanoparticles in the presence of H<sub>2</sub>O and CO<sub>2</sub>: A density-functional theory study"
+  journal: "Applied Surface Science"
+  volume: 676
+  artice_number: 160997
+  year: 2024
+  doi: 10.1016/j.apsusc.2024.160997
+
+- type: journal-article
+  authors:
+    - R. Nabi
+    - B. Atkinson
+    - J. Staab
+    - J. Skelton
+    - N. F. Chilton
+  title: "The impact of low-energy phonon lifetimes on the magnetic relaxation in a dysprosocenium single-molecule magnet"
+  journal: "Chemical Communications"
+  year: 2024
+  doi: 10.1039/D4CC03768E
+
+- type: journal-article
+  authors:
     - K. M. Ta
     - D. J. Cooke
     - L. J. Gillie
