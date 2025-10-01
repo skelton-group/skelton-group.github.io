@@ -14,6 +14,59 @@
 
 - type: journal-article
   authors:
+    - A. Z. Khan
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Impact of crystal structure on the thermoelectric properties of n-type SrTiO<sub>3</sub>"
+  year: 2025
+  doi: 10.1039/D5YA00105F
+  chemrxiv: 10.26434/chemrxiv-2025-0nhsj
+
+- type: journal-article
+  authors:
+    - T. Sajid
+    - J. M. Flitcroft
+    - R. Freer
+    - D. J. Lewis
+    - J. M. Skelton
+  title: "Thermoelectric properties and figure of merit of Cu<sub>2</sub>ZnSnS<sub>4</sub>"
+  journal: "Journal of Materials Chemistry C"
+  volume: 13
+  issue: 32
+  pages: 16763-16777
+  doi: 10.1039/D5TC01537E
+  chemrxiv: 10.26434/chemrxiv-2025-mm25f
+
+- type: journal-article
+  authors:
+    - A. Z. Khan
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Thermoelectric properties of the low-spin lanthanide cobalate perovskites LaCoO<sub>3</sub>, PrCoO<sub>3</sub>, and NdCoO<sub>3</sub> from first-principles calculations"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 27
+  issue: 6
+  pages: 3230-3242
+  year: 2025
+  doi: 10.1039/D4CP04303K
+
+- type: journal-article
+  authors:
+    - M. Zhang
+    - I. Pallikara
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Amorphous-like thermal conductivity and high thermoelectric figure of merit in \"&pi;\" SnS and SnSe"
+  journal: Journal of Materials Chemistry A
+  volume: 13
+  issue: 7
+  pages: 5415-5426
+  year: 2025
+  doi: 10.1039/D4TA05815A
+  chemrxiv: 10.26434/chemrxiv-2024-w7c8m
+
+- type: journal-article
+  authors:
     - J. Cui
     - M. Daboczi
     - Z. Cui
@@ -223,9 +276,32 @@
     - N. F. Chilton
   title: "The impact of low-energy phonon lifetimes on the magnetic relaxation in a dysprosocenium single-molecule magnet"
   journal: "Chemical Communications"
+  volume: 60
+  issue: 94
+  pages: 13915-13918
   year: 2024
   doi: 10.1039/D4CC03768E
   chemrxiv: 10.26434/chemrxiv-2024-hfvft
+
+- type: journal-article
+  authors:
+    - D. McHugh
+    - W. Tong
+    - A. Bezrukov
+    - P. Farras
+    - M. J. Zaworotko
+    - J. Mayans
+    - J. M. Skelton
+    - S. Barnett
+    - A. R. Pallipurath
+    - C. Papatriantafyllopoulou
+  title: "Lanthanide(III) Metal-Organic Frameworks (Ln = Gd, Tb, Dy) Based on a <i>C</i><sub>3</sub> Symmetrical Tricarboxylate Linker"
+  journal: "European Journal of Inorganic Chemistry"
+  year: 2024
+  volume: 28
+  issue: 1
+  article_number: e202400541
+  doi: 10.1002/ejic.202400541
 
 - type: journal-article
   authors:
