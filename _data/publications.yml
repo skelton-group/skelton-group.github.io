@@ -14,10 +14,76 @@
 
 - type: journal-article
   authors:
+    - D. F. Collins
+    - J. M. Skelton
+    - S. L. M. Schroeder
+    - H. Blade
+    - M. Jackman
+    - A. R. Pallipurath
+  title: "Determination of the crystallographic orientation of organic crystal facets with angle-resolved polarised Raman spectroscopy"
+  journal: "CrystEngComm"
+  year: 2025
+  doi: 10.1039/D5CE00672D
+
+- type: journal-article
+  authors:
+    - R. A. Al Balushi
+    - N. Al Riyami
+    - A. Haque
+    - K. M. Alenezi
+    - M. S. Khan
+    - J. M. Skelton
+  title: "Synthesis, characterization, and photovoltaic performance of two new platina-ynes functionalized with seven-ring fused dithienoindacenodithiophene spacers"
+  journal: "Journal of Organometallic Chemistry"
+  volume: 1045
+  article_number: 123943
+  year: 2025
+  doi: 10.1016/j.jorganchem.2025.123943
+
+- type: journal-article
+  authors:
+    - N. D. Wood
+    - S. R. Yeandel
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - D. J. Cooke
+    - L. J. Gillie
+    - S. C. Parker
+    - M. Molinari
+  title: "Thermoelectric performance of oriented SrTiO<sub>3</sub> nanofilms containing &Sigma;3{111} grain boundary interfaces"
+  journal: "Materials &amp; Design"
+  volume: 260
+  article_number: 114997
+  year: 2025
+  doi: 10.1016/j.matdes.2025.114997
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - D. J. Cooke
+    - S. C. Parker
+    - M. Molinari
+  title: "The effect of co-adsorbed H<sub>2</sub>O<sub>2</sub>, CO<sub>2</sub> and H<sub>2</sub>O on CeO<sub>2</sub> nanoparticle morphology: A density-functional theory study"
+  journal: "Ceramics International"
+  volume: 51
+  issue: 30
+  pages: 62540-62553
+  year: 2025
+  doi: 10.1016/j.ceramint.2025.10.398
+
+- type: journal-article
+  authors:
     - A. Z. Khan
     - J. M. Flitcroft
     - J. M. Skelton
   title: "Impact of crystal structure on the thermoelectric properties of n-type SrTiO<sub>3</sub>"
+  journal: "Energy Advances"
+  volume: 4
+  issue: 10
+  pages: 1279-1294
   year: 2025
   doi: 10.1039/D5YA00105F
   chemrxiv: 10.26434/chemrxiv-2025-0nhsj
